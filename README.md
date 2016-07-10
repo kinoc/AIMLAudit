@@ -45,6 +45,14 @@ In the file field, some entries do not point to files but to processing states.
 * AANULL = no valid response found.
 * MAXRECRUSION = possible infinite loop
 
+The system will load AIML in a certain order using **overwrite** semantics. Thus it will first load .\pre, then the primary directory then .\fix
+```
+                this.loadAIML(this.bot.PathToAIML + "\\pre");
+                this.loadAIML(this.bot.PathToAIML);
+                this.loadAIML(this.bot.PathToAIML + "\\fix");
+```
+This should allow it to emulate three level processing, where .\pre contains generic info, the maind directory contains the main character, and .\fix contains any patches over the other two.
+
 ##Input files
 *usercount.txt:
 The Chatscript logs accumulated and sorted into a TSV format.
