@@ -45,6 +45,7 @@ MAXRECRUSION = possible infinite loop
 ##Input files
 *usercount.txt:
 The Chatscript logs accumulated and sorted into a TSV format.
+
 _user-input_ \t _count_
 
 ##Output files
@@ -54,21 +55,26 @@ The total number of user inputs. Can be used to compute probability.
 
 * curResponsesThr.txt:
 System responses accumulated and sorted in a TSV format.
+
 _user-input_ \t _system-response_ \t _count_
 
 * patternMatchCount.txt and patternMatchCount_p.txt:
+
  _source file_ \t _pattern_ \t _count_
 Activation counts sorted by file.
 
 * patternMatchCountByVal.txt and patternMatchCountByVal_p.txt:
+
 _source file_ \t _pattern_ \t _count_
 Activation counts sorted by frequency. This includes BOTH final responses and SRAI's used to get to them.
 
 * patternMatchRespondsCountByVal.txt and patternMatchRespondsCountByVal_p.txt:
+
 _source file_ \t _pattern_ \t _count_
 Activation counts sorted by file. This includes ONLY counts for the category that produced a response.
 
 * normalizedMatchCount.txt:
+
   _user-input_ \t _final-file-used_ \t _final-path-used_ \t _system-response_ \t _count_
 Category tracing + responses. The normalized version lower cases and strips punctuation from the user input and merges the responses and traces into a common list. Merges responses that appear to be different textually but are the same to the matching process.
 
