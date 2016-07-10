@@ -43,9 +43,9 @@ AANULL = no valid response found.
 MAXRECRUSION = possible infinite loop
 
 ##Input files
--userinput:
+*usercount.txt:
 The Chatscript logs accumulated and sorted into a TSV format.
-<user-input>\t<count>
+_user-input_ \t _count_
 
 ##Output files
 
@@ -54,22 +54,22 @@ The total number of user inputs. Can be used to compute probability.
 
 * curResponsesThr.txt:
 System responses accumulated and sorted in a TSV format.
-<user-input>\t<system-response>\t<count>
+_user-input_ \t _system-response_ \t _count_
 
 * patternMatchCount.txt and patternMatchCount_p.txt:
-<source file>\t<pattern>\t<count>
+ _source file_ \t _pattern_ \t _count_
 Activation counts sorted by file.
 
 * patternMatchCountByVal.txt and patternMatchCountByVal_p.txt:
-<source file>\t<pattern>\t<count>
+_source file_ \t _pattern_ \t _count_
 Activation counts sorted by frequency. This includes BOTH final responses and SRAI's used to get to them.
 
 * patternMatchRespondsCountByVal.txt and patternMatchRespondsCountByVal_p.txt:
-<source file>\t<pattern>\t<count>
+_source file_ \t _pattern_ \t _count_
 Activation counts sorted by file. This includes ONLY counts for the category that produced a response.
 
 * normalizedMatchCount.txt:
-  <user-input>\t<final-file-used>\t<final-path-used>\t<system-response>\t<count>
+  _user-input_ \t _final-file-used_ \t _final-path-used_ \t _system-response_ \t _count_
 Category tracing + responses. The normalized version lower cases and strips punctuation from the user input and merges the responses and traces into a common list. Merges responses that appear to be different textually but are the same to the matching process.
 
 So you probably want to look at curResponsesThr.rar and patternMatchRespondsCount.txt to get a good idea about what she says and why.
