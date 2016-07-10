@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<category>
+<pattern> * </pattern>
+<template>
+    <condition name="state" value="early random pickup">
+          <random>
+          <li><srai> early random pickup </srai></li>
+          <li><srai> early random pickup </srai></li>
+          <li><srai> early random pickup </srai></li>
+          <li><srai> early random pickup </srai></li>
+          <li><srai> topical </srai><think><set name="topic">CURRENT</set></think></li>
+          </random>
+    </condition>
+    <condition name="state" value="mid random pickup">
+          <srai> mid random pickup </srai>
+    </condition>
+     <condition name="state" value="accent random pickup">
+          <srai> accent random pickup </srai>
+    </condition>
+</template>
+</category>
+</aiml>

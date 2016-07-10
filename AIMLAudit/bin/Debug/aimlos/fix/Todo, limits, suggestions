@@ -1,0 +1,16 @@
+
+It would be nice to have pics of the emotions to view.
+
+Have some questions to guess a category of person, the see if there is a learned kernel for category.
+i.e. train a dictionary of bots.  The first bot in the chain is a relationship combination of character and receiver, then a
+character with no. Search for important words (high polarity, importance, etc) and re-search for dictionary.
+deep categories: helper vs. harmful,  individual vs. relationship (duty, hierarchy, respect, reputation, group support),
+divinity (obligation sanctity, purity, elevation)
+
+It would be nice to add wikipedia summarization for unknown phrases given a what is * or look up *
+
+import wikipedia
+# print first line of response (however get a lot of warnings first)
+print wikipedia.summary("planck constant").split('\\n')[0]\
+
+

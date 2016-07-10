@@ -1,0 +1,82 @@
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.exe
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.pdb
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.Form1.resources
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.Properties.Resources.resources
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.csproj.GenerateResource.Cache
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.exe
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.pdb
+c:\users\kino\documents\visual studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.exe.config
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\CUETools.Codecs.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\CUETools.Codecs.FLAKE.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\Istrib.Sound.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\Istrib.Sound.Mp3.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\lame_enc.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\Microsoft.DirectX.DirectSound.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\Microsoft.DirectX.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\yeti.mmedia.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\libs\yeti.mp3.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\SpeechRecognizer.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\Istrib.Sound.Mp3.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\Istrib.Sound.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\CUETools.Codecs.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\yeti.mp3.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\yeti.mmedia.dll
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\SpeechRecognizer.pdb
+C:\Users\Kino\Documents\Visual Studio 2010\Projects\VoiceInterface\VoiceInterface\bin\Debug\Newtonsoft.Json.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.exe.config
+F:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.exe
+F:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.pdb
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\CUETools.Codecs.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\CUETools.Codecs.FLAKE.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\Istrib.Sound.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\Istrib.Sound.Mp3.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\lame_enc.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\Microsoft.DirectX.DirectSound.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\Microsoft.DirectX.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\yeti.mmedia.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\libs\yeti.mp3.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.exe
+F:\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.pdb
+F:\VoiceInterface\VoiceInterface\bin\Debug\SpeechRecognizer.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\Istrib.Sound.Mp3.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\Istrib.Sound.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\CUETools.Codecs.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\CUETools.Codecs.FLAKE.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\yeti.mp3.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\yeti.mmedia.dll
+F:\VoiceInterface\VoiceInterface\bin\Debug\SpeechRecognizer.pdb
+F:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.csprojResolveAssemblyReference.cache
+F:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.Form1.resources
+F:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.Properties.Resources.resources
+F:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.csproj.GenerateResource.Cache
+G:\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.exe.config
+G:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.exe
+G:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.pdb
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\CUETools.Codecs.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\CUETools.Codecs.FLAKE.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\Istrib.Sound.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\Istrib.Sound.Mp3.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\lame_enc.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\Microsoft.DirectX.DirectSound.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\Microsoft.DirectX.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\yeti.mmedia.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\libs\yeti.mp3.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.exe
+G:\VoiceInterface\VoiceInterface\bin\Debug\VoiceInterface.pdb
+G:\VoiceInterface\VoiceInterface\bin\Debug\SpeechRecognizer.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\Istrib.Sound.Mp3.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\Istrib.Sound.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\CUETools.Codecs.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\CUETools.Codecs.FLAKE.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\yeti.mp3.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\yeti.mmedia.dll
+G:\VoiceInterface\VoiceInterface\bin\Debug\SpeechRecognizer.pdb
+G:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.csprojResolveAssemblyReference.cache
+G:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.Form1.resources
+G:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.Properties.Resources.resources
+G:\VoiceInterface\VoiceInterface\obj\x86\Debug\VoiceInterface.csproj.GenerateResource.Cache
+N:\AIMLAudit\VoiceInterface\bin\Debug\VoiceInterface.exe.config
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\VoiceInterface.exe
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\VoiceInterface.pdb

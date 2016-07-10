@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <itemx name=" I WAS " value=" he or she was " />
+    <itemx name=" I AM " value=" he or she is " /> 
+    <itemx name=" I " value=" he or she " /> 
+    <itemx name=" HE WAS " value=" I was " /> 
+    <itemx name=" SHE WAS " value=" I was " /> 
+    <itemx name=" ME " value=" him or her " /> 
+    <itemx name=" MY " value=" his or her " /> 
+    <itemx name=" MYSELF " value=" him or herself " />
+  
+	<item name=" WITH YOU " value="WITH xPHIL " />
+	<item name=" TO YOU " value="TO xPHIL " />
+	<item name=" OF YOU " value="OF xPHIL " />
+	<item name=" FOR YOU " value="FOR xPHIL " />
+	<item name=" GIVE YOU " value="GIVE xPHIL " />
+	<item name=" GAVE YOU " value="GAVE xPHIL " />
+	<item name=" MAKE YOU " value="MAKE xPHIL " />
+	<item name=" MADE YOU " value="MADE xPHIL " />
+	<item name=" TAKE YOU " value="TAKE xPHIL " />
+	<item name=" SAVE YOU " value="SAVE xPHIL " />
+	<item name=" ARE YOU " value="IS xPHIL " />
+	<item name=" YOU ARE " value="xPHIL IS " />
+	<item name=" YOU " value="xPHIL " />
+	<item name=" YOUR " value="xPHIL'S " />
+	<item name=" YOURS " value="xPHIL'S " />
+	<item name=" YOURSELF " value="xPHIL'S SELF " />
+	<item name=" I WAS " value="xYOU WERE " />
+	<item name=" I AM " value="xYOU ARE " />
+	<item name=" ME " value="xYOU " />
+	<item name=" MYSELF " value="xYOURSELF " />
+	<item name=" MINE " value="xYOURS " />
+	<item name=" WITH PHIL " value="WITH ME " />
+	<item name=" IS PHIL " value="AM I " />
+	<item name=" TO PHIL " value="TO ME " />
+	<item name=" FOR PHIL " value="FOR ME " />
+	<item name=" OF PHIL " value="OF ME " />
+	<item name=" GIVE PHIL " value="GIVE ME " />
+	<item name=" GAVE PHIL " value="GAVE ME " />
+	<item name=" MAKE PHIL " value="MAKE ME " />
+	<item name=" TAKE PHIL " value="TAKE ME " />
+	<item name=" SAVE PHIL " value="SAVE ME " />
+	<item name=" MADE PHIL " value="MADE ME " />
+	<item name=" TELL PHIL " value="TELL ME " />
+	<item name=" TOLD PHIL " value="TOLD ME " />
+	<item name=" PHIL IS " value="I AM " />
+	<item name=" PHIL WAS " value="I WAS " />
+	<item name=" PHIL " value="I " />
+	<item name=" PHIL'S " value="MY " />
+	<item name=" I ARE " value="I AM " />
+	<item name=" TO I " value="TO ME " />
+	<item name=" OF I " value="OF ME " />
+	<item name=" WITH I " value="WITH ME " />
+	<item name=" xYOURSELF " value="YOURSELF " />
+	<item name=" xYOURS " value="YOURS " />
+	<item name=" xYOU " value="YOU " />
+	<item name=" xPHIL " value="PHIL " />
+	<item name=" xPHIL'S " value="PHIL'S " />
+
+	<item name=" with you " value="with XPhil " />
+	<item name=" to you " value="to XPhil " />
+	<item name=" of you " value="of XPhil " />
+	<item name=" for you " value="for XPhil " />
+	<item name=" give you " value="give XPhil " />
+	<item name=" gave you " value="gave XPhil " />
+	<item name=" make you " value="make XPhil " />
+	<item name=" made you " value="made XPhil " />
+	<item name=" take you " value="take XPhil " />
+	<item name=" save you " value="save XPhil " />
+	<item name=" are you " value="is XPhil " />
+	<item name=" you are " value="XPhil is " />
+	<item name=" you " value="XPhil " />
+	<item name=" your " value="XPhil's " />
+	<item name=" yours " value="XPhil's " />
+	<item name=" yourself " value="XPhil's self " />
+	<item name=" I was " value="Xyou were " />
+	<item name=" I am " value="Xyou are " />
+	<item name=" I " value="Xyou " />
+	<item name=" me " value="Xyou " />
+	<item name=" myself " value="Xyourself " />
+	<item name=" mine " value="Xyours " />
+	<item name=" with Phil " value="with me " />
+	<item name=" is Phil " value="am I " />
+	<item name=" to Phil " value="to me " />
+	<item name=" for Phil " value="for me " />
+	<item name=" of Phil " value="of me " />
+	<item name=" give Phil " value="give me " />
+	<item name=" gave Phil " value="gave me " />
+	<item name=" make Phil " value="make me " />
+	<item name=" take Phil " value="take me " />
+	<item name=" save Phil " value="save me " />
+	<item name=" made Phil " value="made me " />
+	<item name=" tell Phil " value="tell me " />
+	<item name=" told Phil " value="told me " />
+	<item name=" Phil is " value="I am " />
+	<item name=" Phil was " value="I was " />
+	<item name=" Phil " value="I " />
+	<item name=" Phil's " value="my " />
+	<item name=" I are " value="I am " />
+	<item name=" to I " value="to me " />
+	<item name=" of I " value="of me " />
+	<item name=" with I " value="with me " />
+	<item name=" Xyourself " value="yourself " />
+	<item name=" Xyours " value="yours " />
+	<item name=" Xyou " value="you " />
+	<item name=" XPhil " value="Sopheeyah " />
+	<item name=" XPhil's " value="Sopheeyah's " />
+</root>

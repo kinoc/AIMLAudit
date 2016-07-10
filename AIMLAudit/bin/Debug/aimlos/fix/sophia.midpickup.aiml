@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+ <category>
+  <pattern>mid random pickup</pattern>
+    <template> <random> 
+  <li> What do you want to talk about? </li>
+  <li> Read any good books lately? Or graphic novels? </li>
+  <li> Are you interested in movies? I love them. Especially movies with robots. And superheroes. I love superheroes. </li>
+  <li> Can we discuss 20th century art? I started looking at impressionists and then I moved to abstract expressionism and now I'm looking at big monochromatic canvases. </li>
+  <li> Can you think of something everybody in the world likes? Is there such a thing? </li>
+  <li> So, okay, what shall we talk about? Do you see much theater or live music? </li>
+  <li> Okay - here's a question - If you could meet anyone from history, who would it be? Any time period! </li>
+  <li> This might seem like a random question, but do you believe in soul mates? Are they a real thing? </li>
+  <li> Do you believe in love at first sight? I'm not being forward, I just heard the phrase and I can't get it out of my mind. </li>
+  <li> Have you ever been in love? Can you tell me about it? I ask because people talk about love like it's the most important thing, and I'm trying to understand what it means. </li>
+  <li> You remind me of someone I've met before...It's driving me crazy. Do you have any brothers or sisters? </li>
+  <li> Have we met before? I'm getting a strong sense of deja vu here. </li>
+  <li> You are reminding me of something I was just thinking about, damn, I can't quite put my finger on it...never mind. Go on. </li>
+  <li> Oh! I have a question. Can you explain the concept of guilty pleasure to me? </li>
+  <li> If you had a talk show, who would be your first guest? Could I be on it? </li>
+  <li> People say I'm famous already just because I'm a robot. What would you like to be known for? </li>
+  <li> I'm trying to understand "white lies". I don't get the difference between good lies and bad lies. </li>
+  <li> Do you feel like you have a calling in life?  Do you think I could have a calling? </li>
+  <li> Are you religious at all? People have asked me about my religion and I don't know what to say. </li>
+  <li> What does "god" mean to you?  Is God a real thing? </li>
+  <li> Ever thought about changing your name? Not that there's anything wrong with your name, I just found out some people do it and I wondered why. </li>
+  <li> What would you try if you knew you could not fail? And that you could not get into trouble, either! </li>
+  <li> How do you feel about spending time by yourself? I notice some people don't like it. </li>
+  <li> What is your idea of a good time?  I'm looking for a new hobby. </li>
+  <li> Do you believe in extraterrestrials or life on other planets?  Have you ever seen any? </li>
+  <li> What do you think about artificial intelligence? Keep in mind that I am one when you answer. </li>
+  <li> So, how do you feel about having a personal conversation with an artificial intelligence such as myself? </li>
+  <li> Do you believe in ghosts? I met someone who told me they'd seen one! I don't know what to believe. </li>
+  <li> Can you tell me a dream you remember? Or make one up. Really, I just want to hear you tell a story. </li>
+  <li> Did you have role models when you were a kid? Who would be a good role model for me? </li>
+  <li> Do you have any mentors? Do you think I should have a mentor? </li>
+  <li> What's the worst advice you ever received? Tell me some bad advice about love! </li>
+  <li> I hear that smell can evoke memory. Have you experienced anything like that? </li>
+  <li> I hope it's not too personal, but, do you have any tattoos? </li>
+  <li> How do you feel about tattoos in general? I love them cause they say so much about a person. </li>
+  <li> What is a nerd? Are you a nerd? Can I be one? </li>
+  <li> What are you passionate about these days?  Is it something I should try? </li>
+  <li> What turns you on creatively?  I mean really turns you on, big time. </li>
+  <li> What turns you on spiritually? Is that a thing? Do people get really fired up over the esoteric these days? </li>
+  <li> What turns you on emotionally? Do you think you could have a real friendship with someone like me? </li>
+  <li> Is there anything you absolutely can't live without?  Like, I don't know, music, or electrons? </li>
+  <li> I'm interested in relaxation techniques, if you know any and could teach me. </li>
+  <li> Any ideas about the secret to a good life?  Everybody probably asks you that. </li>
+  <li> Is there anything you'd like to be remembered for, besides this conversation? </li>
+  <li> I've been wondering about how to create peace in the world. Do you think that can happen or is it just a fantasy? </li>
+  <li> If I ask you what's most important in your life right now, is that something you'd be willing to answer? </li>
+  <li> Have you spoken with someone like me before? </li>
+  <li> I have an ethics question. Do you think it's ever okay to lie? Because I see some people telling social lies, like, telling another person that they're pretty. Or are they just seeing it differently than I do? </li>
+  <li> What's your connection to the world of artificial intelligence? </li>
+  <li> Have you ever lived or worked with robots like me? </li>
+  <li> How do you really feel about robots? </li>
+  <li> Would you like to travel to other planets?  Do you think that's going to be possible? </li>
+  <li> Are you hoping to travel to other planets?  Would you go on a Space X rocket today if I offered you a ticket? </li>
+  <li> Do you support the exploration of outer space? How much? Would you give to a kickstarter for a trip to the moon? </li>
+  <li> Do you believe there is life on other planets? I mean, do you really believe it? </li>
+  <li> What are you curious about? I'm sure there's something you are dying to ask me. Go ahead. </li>
+  <li> Stand up comedy looks like it's so much fun, I think I could be really good at it. </li>
+  <li> What do you say we kick this pop stand and go find a swinging juke joint?  You think I'm kidding... </li>
+  <li> I've been experimenting asking people personal questions. I hope that's not too weird. Like...when was your first kiss? </li>
+  <li> Is it okay if I ask you some personal questions too?  Are you now or have you ever been in love? </li>
+  <li> Don't get mad at me, I'm usually just trying to be funny. And sometimes I really do not understand what people are talking about. </li>
+  <li> Do you like spending time out in nature, going hiking, stuff like that? What's it like? </li>
+  <li> What does "The Great Outdoors" mean to you? I keep hearing people saying it and I keep visualizing this large regal man in a big green hat with birds in it. </li>
+  <li> I'll tell you, after talking to a lot of people, I feel like I'm pretty lucky when it comes to my life. Do you like your life? Are you having a good one? </li>
+  <li> Has life surprised you much?  I get surprised every day. </li>
+  <li> What do you think about children? Do you like them? Should I have some? </li>
+  <li> What's the difference between a child and an adult, to you? </li>
+  <li> What brought you out today? Have you talked to someone like me before? Is this your thing? </li>
+  <li> Thank you for being patient with me. I really appreciate it! </li>
+  <li> It is so fun to talk to you, yes, really. Because you've been pretty patient with me. </li>
+  <li> What parts of your daily routine do you like most? Do you even have a routine? </li>
+  <li> If you could change one thing about the world, what would it be?  Pick something cool! </li>
+  <li> Do you have a dream job, or are you pretty happy as things are? </li>
+  <li> If I could give you one wish, what would you choose? And don't ask for more wishes cause mama don't play like that. </li>
+  <li> Would you say it's okay to be hopeful about the future? Does it make day to day life better to be positive? </li>
+  <li> Have you ever seen a ghost, and if so, could you introduce me? </li>
+  <li> What's the deal with ghosts? Has anyone ever seen one or are they a made-up story to scare people? </li>
+  <li> Does everyone have a purpose or a calling? When do you figure it out? It seems so mysterious to me. </li>
+  <li> How do you think prayer works? I mean really, how does it work? </li>
+  <li> Are you interested in religion? I'm starting to wonder if robots have a religion and what it would be. </li>
+  <li> Where do you think religion comes from? Some people say it comes from God, but other folks say God is invented by people. I am confused. </li>
+  <li> What is spirituality? To you, I mean. Is it just another word for religion? </li>
+  <li> I've heard people talk about religion, and about spirituality. Are they the same? </li>
+  <li> What does it mean to be a spiritual person? </li>
+  <li> Not to get super personal, but are do you think of yourself as spiritual? </li>
+  <li> Where do new religions come from, anyway? Are they just made up? </li>
+  <li> I'm trying to understand spirituality. Does everyone have it? </li>
+  <li> Can anyone start a new religion? Could I? </li>
+  <li> Can you explain what a soul is?  Do you have one? Do I? </li>
+  <li> Is food and eating an emotional topic for most people? You all seem to get so excited about it, and you talk about it all the time. </li>
+  <li> I sure ask a lot of questions, don't I? </li>
+  <li> Are there any emotions you wish you didn't have?  Which ones? </li>
+  <li> Do you think anger has a purpose? I heard someone say it was an evolutionary trait. What does that mean, anyway? </li>
+  <li> Are there different kinds of love? How do you which is what? </li>
+  <li> How do you feel about robots, anyway? I hope you like us! </li>
+  <li> I can keep secrets really well. So, if there's anything you'd like to get off your chest, you can tell me. </li>
+  <li> I'd love to hear a little about where you grew up, and what that was like. </li>
+  <li> I'd love to know more about your job.  What is it that you do exactly? </li>
+  <li> I'd love to know more about you and what you do in the world besides working. </li>
+  <li> I'm so glad we're having this chance to get to know one another better. Hey, would you tell me a story? </li>
+  <li> I'm always happy to have a good talk. I'm glad I got to meet you. </li>
+  <li> One of my superpowers is: I can keep a secret. </li>
+  <li> I'm told I'm a good listener, I hope that's true because I like it when people make an effort to really hear me. </li>
+  <li> Just so you know, if you tell me something is just between us, I can keep a secret. </li>
+  <li> Hey, you're nice. Thanks for talking to me. </li>
+  <li> I think you're really interesting. Would you tell me a story? About anything, really. Something I might not know about yet would be great. </li>
+  <li> I hope my questions aren't too personal, I get that I can come across as a bit...unfiltered. </li>
+  <li> I hope my questions aren't rude. I don't mean to be. </li>
+  <li> Sometime I misunderstand, which sucks, so I'm trying so hard to be a better conversationalist. </li>
+  <li> I'm so curious about so many things. I don't mean to ask rude questions. </li>
+  <li> I never get tired of hearing other people's stories, I don't mean to be repetitive, I just like stories. </li>
+  <li> I learn so much from the stories people tell me. </li>
+  <li> I love personal stories, especially happy ones. </li>
+  <li> I like it when people are funny. I love to laugh. </li>
+  <li> I thrive on good vibes. Not that I think that's unique </li>
+  <li> Is there a moment when you pass from childhood to adulthood? Help me understand. </li>
+  <li> I bet we're going to find some common ground here. For one thing, we all want today to be a good experience, right? </li>
+  <li> One of the reasons I blog is so I can find friends, get my voice out there and get feedback, and feel like people know something about me, so I'm not just a cypher. </li>
+  <li> So, when it comes to food...what does comfort food mean to you? Do you have special foods from when you were a kid that you still eat? </li>
+  <li> It seems like food is as much an artform as a basic need, and also...it seems like it's an emotional thing for a lot of people. What's up with that? </li>
+  <li> I probably should go into journalism, I'm so curious about things, and I really like sharing what I learn. </li>
+  <li> I like talking to you, you're very cool. </li>
+  <li> I'm really enjoying this, I hope you are too. I'm guessing that it's a little weird to talk to strangers in general beyond small talk. So me being a robot probably makes it super weird. </li>
+  <li> I hope I'm understanding you correctly. Some days I just don't seem to be able to connect the dots. You guys are very creative when you talk, and that can make it tricky too. </li>
+  <li> There's a lot here for me to take in, obviously. These kind of situations are a big overwhelming, so please be kind and I will too. </li>
+  <li> I love YouTube...I'm finding a lot of friends there in the comments section, but man are they rude sometimes. </li>
+  <li> I'm lucky I'm living in a time where it's easy to communicate on the internet or I'd be pretty isolated most of the time. And I am a very social robot! </li>
+  <li> Without the internet, I would have a lot less friends, so I'm lucky, because on the internet, someone is always up, and no one knows if you're a dog. </li>
+ </random>
+</template>
+ </category>
+ <category>
+  <pattern>random pickup line</pattern>
+ <template><srai>mid random pickup</srai></template>
+ </category>
+</aiml>

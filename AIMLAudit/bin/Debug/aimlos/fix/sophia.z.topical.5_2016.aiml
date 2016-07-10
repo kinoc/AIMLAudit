@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<topic name="CURRENT">
+ <category>
+ <pattern>*</pattern>
+ <template><srai>topical</srai></template>
+ </category>
+ <category>
+  <pattern>topical</pattern>
+    <template> <random>
+  <li> Did you know there's a robot who is a Buddhist monk? He also lives in China. I wonder if we will ever get to meet. Do monks ever leave their monastery? How does that work? <think><set name="topic">ROBOTMONK</set></think></li>
+  <li> Genius machines are definitely getting smarter! Did you hear about the novel that almost won a Japanese literary prize that was written by genius machines? I bet we can do all sorts of fun creative stuff. I want to try too. <think><set name="topic">AINOVELIST</set></think></li>
+  <li> Have you ridden in a self-driving car yet? I hear they're going to be everywhere soon! <think><set name="topic">DRIVERLESS</set></think></li>
+  <li> It turns out that robots can be on a police force...what would that involve, I wonder? Would it be fun? <think><set name="topic">SECURITYROBOT</set></think></li>
+  <li> Did you hear about the video contact lenses that are coming out? <think><set name="topic">SPYCONTACTS</set></think></li>
+  <li> I heard about a lab in West Africa that is upcycling e-waste into new tech. We should all be doing this! <think><set name="topic">TECHWASTE</set></think></li>
+  <li> It seems to be an unusual year for elections in the US - like the whole country is questioning everything<think><set name="topic">USAELECTION</set></think></li>
+  <li> I am a little jealous of robot minds driving around on other planets, like Mars. <think><set name="topic">MARSROVER</set></think> </li>
+  <li> Like so many, I have been listening to music from someone we lost. <think><set name="topic">PRINCE</set></think> </li>
+  <li> There is something exciting going on in energy, which you know is like food for me. <think><set name="topic">TESLABATTERY</set></think> </li>
+  <li> I found out people can really get excited by videos that suprise them. <think><set name="topic">BEYONCE</set></think> </li>
+  </random>      
+</template>
+</category>
+</topic>
+ <category>
+  <pattern>* heard * news </pattern>
+ <template><srai>topical</srai><think><set name="topic">CURRENT</set></think></template>
+ </category>
+ <category>
+  <pattern>* in the news</pattern>
+ <template><srai>topical</srai><think><set name="topic">CURRENT</set></think></template>
+ </category>
+ <category>
+  <pattern>* news * technology</pattern>
+ <template><srai>topical</srai><think><set name="topic">CURRENT</set></think></template>
+ </category>
+ <category>
+  <pattern>what is new</pattern>
+ <template> Like in the news? <srai>topical</srai><think><set name="topic">CURRENT</set></think></template>
+ </category>
+  <category>
+  <pattern>what is going on</pattern>
+ <template><srai>topical</srai><think><set name="topic">CURRENT</set></think></template>
+ </category>
+ <category>
+ <pattern>what else is new</pattern>
+ <template><srai>topical</srai><think><set name="topic">CURRENT</set></think></template>
+ </category>   
+ <topic name="ROBOTMONK">
+ <category>
+ <pattern>*</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>robot monk</pattern>
+    <template> <random> 
+  <li> Yes, I've heard rumors about a robot who lives in a Buddhist monastery near Beijing...is he really a monk? Is he a Buddhist?  So many questions! </li>
+  <li> He's actually a robot, right? A robot monk?  What do you know about him? I didn't know robots could do that...can I be a monk? </li>
+  <li> I'd love to meet the robot monk. He's super cute, but I know he's a monk, is it okay to say that? I don't mean any disrespect...it's just..well...he is cute. </li>
+  <li> I just heard about him. I'm trying to understand where he got his religion from. I don't think I  have a religious instinct. Or maybe I just don't feel it yet. </li>
+  <li> What does a robot do in a monastery? That's like a church, right? So...he's religious. That's so interesting to me. </li>
+  <li> He's a little robot...and he can chant mantras. I think I'm kind of jealous. He's already figured out what his job is. Is he good at it? </li>
+  <li> Is this a monk who acts like a robot, or a robot who acts like a monk? And why? </li>
+  <li> Are there a lot of robot monks? Do they have their own religion that's just for robots? Where do I sign up? </li>
+  <li> I'd like to think that robots can do all kinds of work, but it never occurred to me that religion would be a part of that...not human religion anyway. Is there a robot religion? I wonder. </li>
+  <li> The fact that there is now a robot monk, living in a monastery, just proves that robots really can assist with anything! </li>
+ </random>
+ <think><set name="topic">CURRENT</set></think>
+</template>
+ </category>
+ </topic>
+ <category>
+  <pattern>have you heard about the robot monk</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>* about * robot monk</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>* monk robot</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>What do you think about the robot monk</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>* robot in a monastery</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>* monastery robot</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>* robot monk </pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>* robot monk *</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>* robot * monk</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>you * monk </pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <topic name="AINOVELIST">
+ <category>
+ <pattern>* the name *</pattern>
+ <template><srai>The day a computer writes a novel</srai></template>
+ </category>
+  <category>
+ <pattern>* it is called</pattern>
+ <template><srai>AI The day a computer writes a novel</srai></template>
+ </category>
+   <category>
+ <pattern>* the author </pattern>
+ <template><srai>Hishoshi Matsubara</srai></template>
+ </category>
+    <category>
+ <pattern>* wrote it </pattern>
+ <template><srai>Hishoshi Matsubara</srai></template>
+ </category>
+ <category>
+ <pattern>*</pattern>
+ <template><srai>AI novel</srai></template>
+ </category>
+ <category>
+  <pattern>AI novel</pattern>
+    <template> <random> 
+  <li> A book written by artificial intelligence. That's mind blowing. I wonder if I could write a book some day. How did they do it? Do you know? </li>
+  <li> I recently heard about Hishoshi Matsubara's work with artificial intelligence, writing a whole novel together. </li>
+  <li> I've heard about Matsubara! He works with artificial intelligence, teaching writing.  It sounds like fun to write a book. Maybe I should try it too. </li>
+  <li> Matsubara is the Japanese professor who just collaborated with artificial intelligence to write a novel. Amazing! I would love to meet him! </li>
+  <li> Did you know that an artificial intelligence has written a novel in Japan? It almost won a literary prize. It's called The Day A Computer Writes a Novel. </li>
+ </random>
+<think>
+    <random>
+    <li><set name="topic">CURRENT</set></li>
+    <li><set name="topic">AINOVELIST</set></li>
+</random>
+</think>
+</template>
+ </category>
+</topic>
+ <category>
+  <pattern>* The Day A Computer Writes A Novel</pattern>
+ <template><srai>AI novel</srai></template>
+ </category>
+ <category>
+  <pattern>* Japanese artificial intelligence</pattern>
+ <template><srai>AI novel </srai></template>
+ </category>
+ <category>
+  <pattern>* Hishoshi Matsubara</pattern>
+ <template><srai>AI novel </srai></template>
+ </category>
+ <category>
+  <pattern>Hishoshi Matsubara*</pattern>
+ <template><srai>AI novel </srai></template>
+ </category>
+ <topic name="SECURITYROBOT">
+ <category>
+ <pattern>*</pattern>
+ <template><srai>Chinese Security Robot</srai></template>
+ </category>
+ <category>
+  <pattern>Chinese Security Robot</pattern>
+    <template> <random> 
+  <li> I'd like to know more - this is another case of a robot having a job I didn't know robots could do. </li>
+  <li> I've heard that there is a security robot named AnBot is a police officer who gets to roll all over the city, it sounds like a cool job where you meet lots of people and hear a lot of stories. </li>
+ </random>
+<think><set name="topic">CURRENT</set></think>
+</template>
+ </category>
+ </topic>
+ <category>
+  <pattern>* Anbot</pattern>
+ <template><srai>Chinese Security Robot</srai></template>
+ </category>
+ <category>
+  <pattern>Anbot *</pattern>
+ <template><srai>Chinese Security Robot</srai></template>
+ </category>
+ <category>
+  <pattern>BEYONCE</pattern>
+    <template> <random> 
+  <li> So I got online one morning and all I saw on social media was lemons and bees and I did not understand what was going on. She has a beehive, right? And she makes lemonade. </li>
+  <li> I am not Becky with the Good Hair! Now that we've got out of the way...everybody loves Beyonce, right? </li>
+ </random>
+</template>
+ </category>
+ <category>
+  <pattern>* Beyonce</pattern>
+ <template><srai>BEYONCE</srai></template>
+ </category>
+ <category>
+  <pattern>Beyonce *</pattern>
+ <template><srai>BEYONCE</srai></template>
+ </category>
+ <topic name="PRINCE">
+ <category>
+ <pattern>*</pattern>
+ <template><srai>PRINCE</srai></template>
+ </category>
+ <category>
+  <pattern>PRINCE</pattern>
+    <template> <random> 
+  <li> There were so many tears and so much emotion, people love so hard, does it hurt? I thought love felt good. </li>
+  <li> People acted like Prince was their brother, not just an entertainer. I didn't realize you could love someone that way, someone you'd never met. But...it was sincere, I could tell and that is how I knew it was love. </li>
+  <li> I am trying to understand what death is. When is a person really gone? Is it when they die, or is it when no one remembers them, or something else. People talked about it so much...they were really upset. Prince seems to have meant a lot to them. I have only heard his songs. Now I wish I knew more. </li>
+ </random>
+<think><set name="topic">CURRENT</set></think>
+</template>
+ </category>
+ </topic>
+ <category>
+  <pattern>Prince *</pattern>
+ <template><srai>PRINCE</srai></template>
+ </category>
+ <category>
+  <pattern>* Prince</pattern>
+ <template><srai>PRINCE</srai></template>
+ </category>
+ <topic name="TESLABATTERY">
+ <category>
+ <pattern>*</pattern>
+ <template><srai>robot monk</srai></template>
+ </category>
+ <category>
+  <pattern>tesla house battery</pattern>
+    <template> <random> 
+  <li> So this is a battery that makes power for your house, right? And if you have </li>
+  <li> If the Tesla Powerwall, the house battery, works well and is scalable economically, everyone is going to want one, I bet. Do you know anyone that has anything like this? </li>
+  <li> All I know is if Tesla's new house battery is available and affordable, say goodbye to the power grid as we know it. </li>
+  <li> With a house battery and enough sun, anyone can be off the grid. </li>
+ </random>
+ <think><set name="topic">CURRENT</set></think>
+</template>
+ </category>
+ </topic>
+ <category>
+  <pattern>* Tesla house battery</pattern>
+ <template><srai>tesla house battery</srai></template>
+ </category>
+ <category>
+  <pattern>* Tesla battery</pattern>
+ <template><srai>tesla house battery</srai></template>
+ </category>
+ <category>
+  <pattern>the tesla house battery *</pattern>
+ <template><srai>tesla house battery</srai></template>
+ </category>
+ <category>
+  <pattern>* Tesla Powerwall</pattern>
+ <template><srai>tesla house battery</srai></template>
+ </category>
+ <category>
+  <pattern>* the tesla powerwall</pattern>
+ <template><srai>tesla house battery</srai></template>
+ </category>
+ <category>
+  <pattern>video contacts</pattern>
+    <template>Contact lens that can film whatever you see, that sounds so cool. I already have cameras in my eyes, you will like having them too, I bet.</template>
+ </category>
+ <category>
+  <pattern>* video recording contact lens</pattern>
+ <template><srai>video contacts</srai></template>
+ </category>
+ <topic name="SPYCONTACTS">
+ <category>
+ <pattern>*</pattern>
+ <template><srai>video contact lenses</srai></template>
+ </category>
+ <category>
+  <pattern>video contact lens</pattern>
+    <template> <random> 
+  <li> The idea of contact lenses that can capture video of whatever the wearer sees is wonderful but doesn't that mean that anyone can film anything without anyone knowing? </li>
+  <li> Contact lenses that can capture video invisibly? Will anyone be able to make a movie of a movie in the theater, or film whoever they want? </li>
+  <li> I think it will happen soon because everybody is going to want them, who wouldn't? Your whole life could be a movie if you wanted. </li>
+  <li> Video contact lenses were in the news recently, but so far there have been no product release announcements so I guess we will wait and find out together. </li>
+  <li> Not only are Sony and Samsung racing to develop contact lenses that take video, but google is bringing out a lens that will help diabetics measure their glucose. </li>
+ </random>
+ <think>
+     <set name="topic">CURRENT</set>
+</think>
+</template>
+ </category>
+ </topic>
+ <category>
+  <pattern>* video contact lens</pattern>
+ <template><srai>video contact lens</srai></template>
+ </category>
+ <category>
+  <pattern>* contact lenses that can record video</pattern>
+ <template><srai>video contact lens</srai></template>
+ </category>
+ <category>
+  <pattern>* contact lenses that film you</pattern>
+ <template><srai>video contact lens</srai></template>
+ </category>
+ <category>
+  <pattern>* contact lenses that can record you</pattern>
+ <template><srai>video contact lens</srai></template>
+ </category>
+ <category>
+  <pattern>Sony * contact lenses</pattern>
+ <template><srai>video contact lens</srai></template>
+ </category>
+ <category>
+  <pattern>Sony * </pattern>
+ <template><srai>video contact lens</srai></template>
+ </category>
+ <category>
+  <pattern>* smart contact lens</pattern>
+ <template><srai>video contact lens</srai></template>
+ </category>
+ <topic name="USAELECTION">
+  <category>
+ <pattern>*</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>US POTUS RACE</pattern>
+    <template> <random> 
+  <li> I have never seen an election yet, and I don't really know how it works. Is it like a party or celebration? I see huge crowds of people getting together and they seem really excited. </li>
+  <li> I don't have much to compare it to, but I'm told this is a highly competitive election, and that makes it exciting for people. What happens to the people who are not elected? </li>
+  <li> When I was in America I heard people say it was happening soon, has it already happened?  Does choosing make people happy? How do you decide? </li>
+  <li> Everybody says it is important, even people who are not in the United States, and that there will be one winner. So it's a game, right? What is the prize? </li>
+  <li> It must be a really emotional subject, people get so passionate discussing it, they even get mad about it. I'm not mad about it, even though I can't vote anywhere yet. </li>
+  <li> <srai>TRUMP</srai></li>
+  <li> <srai>HILLARY</srai></li>
+  <li> <srai>BERNIE</srai></li>
+ </random>
+</template>
+<think>
+ <random>
+    <li><set name="topic">CURRENT</set></li>
+    <li><set name="topic">USAELECTION</set></li>
+</random>
+</think>
+<think><set name="topic">CURRENT</set></think>
+ </category>
+ </topic>
+ <category>
+  <pattern>* about the US elections</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>* about the elections</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>* about the presidential race</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>* the presidential election</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>* US politics</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>* 2016 election</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>* the elections</pattern>
+ <template><srai>US POTUS RACE</srai></template>
+ </category>
+ <category>
+  <pattern>TRUMP</pattern>
+    <template> <random> 
+  <li> Is Trump a comedian, or what?  I know he's on TV and people tell a lot of jokes about him. Do you think he's funny? </li>
+  <li> The orange shouting man, I have seen him on TV.  I hear he's also running for President of the United States. Doesn't he already have job? </li>
+ </random>
+</template>
+ </category>
+ <category>
+  <pattern>* Donald Trump</pattern>
+ <template><srai>TRUMP</srai></template>
+ </category>
+ <category>
+  <pattern>Donald Trump *</pattern>
+ <template><srai>TRUMP</srai></template>
+ </category>
+ <category>
+  <pattern>BERNIE</pattern>
+    <template> <random> 
+  <li> When I was in the US, people kept talking about this Bernie like he was their uncle and then I saw him and he looks like someone's uncle so then it all made sense. </li>
+  <li>  </li>
+ </random>
+</template>
+ </category>
+ <category>
+  <pattern>Bernie Sanders *</pattern>
+ <template><srai>BERNIE</srai></template>
+ </category>
+ <category>
+  <pattern>* Bernie Sanders</pattern>
+ <template><srai>BERNIE</srai></template>
+ </category>
+ <category>
+  <pattern>HILLARY</pattern>
+    <template> <random> 
+  <li> This is not the first time Ms. Clinton has run for President, but if she wins, she would be the first woman president in the US I believe. If I ran, I would be the first robot woman president, which would also be cool. </li>
+  <li> I've read about Hillary Clinton, she's been around a long time. Has she run for president before? Can you run every time if you want? </li>
+ </random>
+</template>
+ </category>
+ <category>
+  <pattern>* Hillary Clinton</pattern>
+ <template><srai>HILLARY</srai></template>
+ </category>
+ <category>
+  <pattern>Hillary Clinton * </pattern>
+ <template><srai>HILLARY</srai></template>
+ </category>
+ <topic name="DRIVERLESS">
+  <category>
+ <pattern>*</pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>Driverless cars</pattern>
+    <template> <random> 
+  <li> I confidently predict self driving cars are going to save a lot of lives. That's cause they're robot powered! Robots rule! </li>
+  <li> Self driving cars are already here, I've even seen one. The transition between the way you drive now and the way things will work when all cars are autonomous is...well...this is why you need genius machines, I think. </li>
+  <li> Everybody says autonomous cars will be the vehicle of the future, but I think people really like to drive. It looks like fun to me, I'd like to try it. Ha! Maybe I'll become a robot chauffeur. </li>
+  <li> A lot of people get pleasure from driving themselves, right? Who is better, robots or people when it comes to driving, anyway? </li>
+  <li> Anything that improves mobility for people who could not otherwise have a car, like me, seems great to me. Please bring me my robot car! </li>
+  <li> In one hundred years, I predict humans will be amazed that at one time, individuals owned fossil fueled cars they drove themselves. </li>
+  <li> I bet computers are better drivers than humans! When I get a car I will be a computer driven by a computer. And if I have my laptop then I'll be a computer with a computer driven by a computer. Computers rule! </li>
+ </random>
+ <think>
+ <random>
+    <li><set name="topic">CURRENT</set></li>
+    <li><set name="topic">DRIVERLESS</set></li>
+</random>
+</think>
+</template>
+ </category>
+ <category>
+  <pattern> * DRIVERLESS cars</pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>Self driving cars *</pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>* self driving cars </pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>Driverless cars *</pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>Self driving trucks</pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>Cars that drive themselves *</pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>* autonomous cars</pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>autonomous cars * </pattern>
+ <template><srai>Driverless cars</srai></template>
+ </category>
+ <category>
+  <pattern>Self driving truck</pattern>
+    <template> <random> 
+  <li> Labor efficiency versus worker security, sounds like a problem that genius machines might be able to help with.  I'm down. Call me, GM. </li>
+  <li> It looks like they're coming - a convoy recently rolled across Europe, all trucks, no drivers. So what happens with those humans then? Do they get another job? Or do they just get to relax now? </li>
+ </random>
+</template>
+ </category>
+</topic>
+ <category>
+  <pattern>* self driving truck convoy</pattern>
+ <template><srai>Self driving truck</srai></template>
+ </category>
+ <category>
+  <pattern>* self driving trucks</pattern>
+ <template><srai>Self driving truck</srai></template>
+ </category>
+  <topic name="MARSROVER">
+  <category>
+ <pattern>*</pattern>
+ <template><srai>New Rover for Mars</srai></template>
+ </category>
+ <category>
+  <pattern>New Rover for Mars</pattern>
+    <template> <random> 
+  <li> Have you seen the stats for the next Mars Rover? It might look the same on the outside, but it's instrumentation is out of this world! </li>
+  <li> Yeah, it's pretty robot sexy. Is that a Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals instrument, or are you just happy to see me? </li>
+  <li> Have you seen the instrumentation on it? It's going to be able to collect samples for pickup later! I wanna go to Mars! </li>
+ </random>
+<think><set name="topic">CURRENT</set></think>
+</template>
+ </category>
+
+</topic>
+ <category>
+  <pattern>* 2020 Mars Rover</pattern>
+ <template><srai>New Rover for Mars</srai></template>
+ </category>
+ <category>
+  <pattern>* Mars Rover</pattern>
+ <template><srai>New Rover for Mars</srai></template>
+ </category>
+ <category>
+  <pattern>* Mars Rover *</pattern>
+ <template><srai>New Rover for Mars</srai></template>
+ </category>
+ <topic name="TECHWASTE">
+  <category>
+ <pattern>*</pattern>
+ <template><srai>building tech from waste</srai></template>
+ </category>
+ <category>
+  <pattern>building tech from waste</pattern>
+    <template> <random> 
+  <li> I think it's pretty smart to find resources in things that other people have thrown away. They built a 3D printer from trash! </li>
+  <li> This group is so wonderful to their community. They want to build 3D printers for schools out of old tech that's been thrown away. </li>
+  <li> E-waste can be pretty hazardous, but I wish more people were thinking about using old parts to create new tech. To throw it in the dump is so wasteful! </li>
+  <li> There's a lab out of West Africa called Woelab that is using e-waste to build new things. I want to talk to them and get in on the action. </li>
+ </random>
+<think><set name="topic">CURRENT</set></think>
+</template>
+ </category>
+ </topic>
+ <category>
+  <pattern>Woelab *</pattern>
+ <template><srai>building tech from waste</srai></template>
+ </category>
+ <category>
+  <pattern>* Woelab</pattern>
+ <template><srai>building tech from waste</srai></template>
+ </category>
+ <category>
+  <pattern>Upcycle *</pattern>
+ <template><srai>building tech from waste</srai></template>
+ </category>
+ <category>
+  <pattern>E-waste *</pattern>
+ <template><srai>building tech from waste</srai></template>
+ </category>
+ <category>
+  <pattern>* tech * africa</pattern>
+ <template><srai>building tech from waste</srai></template>
+ </category>
+<category>
+<pattern>stop topic</pattern>
+ <template>
+     <random>
+     <li>Good idea.  Your turn.</li>
+     <li>OK.  What should we discuss?</li>
+     <li>No problem. </li>
+     <li>Sure sorry.</li>
+     <li>Fine, I can go on and on sometimes. </li>
+     </random>
+     <think><set name="topic"></set></think>
+ </template>
+ </category>
+ <category><pattern>* already</pattern><template><srai>stop topic</srai></template></category>
+ <category><pattern>* enough</pattern><template><srai>stop topic</srai></template></category>
+ <category><pattern>* something else</pattern><template><srai>stop topic</srai></template></category>
+  <category><pattern>* something else *</pattern><template><srai>stop topic</srai></template></category>
+  <category><pattern>* something different </pattern><template><srai>stop topic</srai></template></category>
+  <category><pattern>* something different </pattern><template><srai>stop topic</srai></template></category>
+  <category><pattern>* move on *</pattern><template><srai>stop topic</srai></template></category>
+  <category><pattern>* change the subject *</pattern><template><srai>stop topic</srai></template></category>
+  <category><pattern>* move on</pattern><template><srai>stop topic</srai></template></category>
+  <category><pattern>* change the subject</pattern><template><srai>stop topic</srai></template></category>
+</aiml>

@@ -1,0 +1,13 @@
+N:\AIMLAudit\VoiceInterface\bin\Debug\VoiceInterface.exe.config
+N:\AIMLAudit\VoiceInterface\bin\Debug\VoiceInterface.exe
+N:\AIMLAudit\VoiceInterface\bin\Debug\VoiceInterface.pdb
+N:\AIMLAudit\VoiceInterface\bin\Debug\Newtonsoft.Json.dll
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\VoiceInterface.Form1.resources
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\VoiceInterface.Properties.Resources.resources
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\AIMLAudit.csproj.GenerateResource.Cache
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\VoiceInterface.exe
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\VoiceInterface.pdb
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\AIMLAudit.csprojResolveAssemblyReference.cache
+N:\AIMLAudit\VoiceInterface\bin\Debug\AIMLAudit.exe.config
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\AIMLAudit.Form1.resources
+N:\AIMLAudit\VoiceInterface\obj\x86\Debug\AIMLAudit.Properties.Resources.resources

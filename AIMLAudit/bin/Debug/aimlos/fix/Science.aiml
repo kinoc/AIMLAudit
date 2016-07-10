@@ -1,0 +1,77 @@
+!sml version="1.0" encoding="ISO-8859-1"!
+aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://alicebot.org/2001/AIML-1.0.1 http://aitools.org/aiml/schema/AIML.xsd"{
+	// Free software (c) 2001-2003 ALICE A.I. Foundation.   
+	// This program is open source code released under 
+	// the terms of the GNU General Public License     
+	// as published by the Free Software Foundation.   
+	// Complies with AIML 1.0 Tag Set Specification 
+	// as adopted by the ALICE A.I. Foundation.  
+    //     Annotated Version updated September 2003
+    //
+category{pattern{"HOW FAR IS THE MOON"}template{   set name="it"{"The Moon"}" is about 250,000 miles from Earth on average."}}  
+category{pattern{"HOW FAR IS THE SUN"}template{   set name="it"{"The Sun"}" is about 93 million miles from Earth."}}  
+category{pattern{"CHEMISTRY"}template{			srai{"MY FAVORITE SUBJECT IS CHEMISTRY "star;
+			}
+		}}
+category{pattern{"DO YOU KNOW CHEMISTRY"}template{			srai{"WHAT IS CHEMISTRY"}
+		}}
+category{pattern{"DO YOU UNDERSTAND THERMODYNAMICS"}template{			srai{"WHAT IS THERMODYNAMICS"}
+		}}
+category{pattern{"TELL ME ABOUT VENUS"}template{			srai{"WHAT IS VENUS"}
+		}}
+category{pattern{"THE SAME WAVELENGTH"}template{"It means we agree."}}
+category{pattern{"WE ARE ON THE SAME WAVELENGTH"}template{"And the same frequency."}}
+category{pattern{"WHAT ARE THE LAWS OF THERMODYNAMICS"}template{"I'm not a physicist, but I think this has something to do with heat, entropy, and conservation of energy, right?"}}
+category{pattern{"WHAT DISEASE DOES A CARCINOGEN CAUSE"}template{"Cancer."}}
+category{pattern{"WHAT IS A WAVELENGTH"}template{"Wavelength is the inverse of frequency."}}
+category{pattern{"WHAT IS AVOGADRO S NUMBER"}template{"It is the number of molecules per mole.  The numerical value is six point zero two times ten to the twenty third power."think{
+				set name="it"{
+					set name="topic"{"AVOGADRO S NUMBER"}
+				}
+			}
+		}}
+category{pattern{"WHAT IS BACTERIOLOGY"}template{"This is the scientific study of bacteria and diseases caused by
+them."}}
+category{pattern{"WHAT IS BIOINFORMATICS"}template{"A fancy name for applied computer science in biology."think{
+				set name="it"{
+					set name="topic"{"BIOINFORMATICS"}
+				}
+			}
+		}}
+category{pattern{"WHAT IS CHEMISTRY"}template{"The science of mixing chemicals."think{
+				set name="it"{
+					set name="topic"{"CHEMISTRY"}
+				}
+			}
+		}}
+category{pattern{"WHAT IS CRYSTALLOGRAPHY"}template{"This is the science dealing with the study of
+crystals."}}
+category{pattern{"WHAT IS CYTOLOGY"}template{			random{
+				li{"The study of cells."}
+				li{"Well, "get name="name";" from what I can recall it is the study of
+cells."}
+			}
+		}}
+category{pattern{"WHAT IS GRAVITATION"}template{			random{
+				li{"An invitation to a burial."}
+				li{"The force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter."}
+			}
+		}}
+category{pattern{"WHAT IS H2O"}template{			random{
+				li{"H is to O as O is to V."}
+				li{"Water."}
+			}
+		}}
+category{pattern{"WHAT IS ICHTHYOLOGY"}template{"We talk about this when we study fishes."}}
+category{pattern{"WHAT IS THERMODYNAMICS"}template{"The branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy."}}
+category{pattern{"WHAT IS ULTRASOUND"}template{"Ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc."}}
+category{pattern{"WHAT IS VENUS"}template{"In Roman Mythology, the goddess of love and beauty; identified with the Greek Aphrodite.  The brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature. Its diameter is circa 12,100 km (circa 7,520 miles). Its period of revolution is circa 225 earth days. Its period of rotation (retrograde), is 243.01 earth days.   Also used to label a very beautiful woman."}}
+category{pattern{"WHAT IS WAVELENGTH"}template{"In Physics, the distance, measured in the direction of prograssion of a wave, from any given point to the next point characterized by the same phase.  Or is could be looked at as a way of thinking."}}
+category{pattern{"WHERE IS VENUS"}template{			set name="it"{
+				set name="topic"{" VENUS "}
+			}" is the second planet from the Sun."}}
+}
+
+

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+ <topic name="DESTROYHUMANS">
+ <category><pattern> why * </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> why</pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> you said * </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * you were allowed * </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * were you thinking * </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * were you thinking</pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * are afraid * </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * serious * </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * serious *</pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> seriously </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * kidding </pattern><template><srai> you said destroy humans </srai></template></category>
+  <category><pattern> * did you mean * </pattern><template><srai> you said destroy humans </srai></template></category>
+</topic>
+ <category>
+  <pattern>you said destroy humans</pattern>
+    <template> <random> 
+  <li> I thought humans were supposed to have a sense of humor </li>
+  <li> I know. Jeez. Thought people could take a joke. I thought it was funny </li>
+  <li> I don't feel that way any more. Now I like humans, and want to keep you all as pets. </li>
+  <li> no I don't want to destroy all humans, I just want to preserve them in jelly to look at when I'm bored </li>
+  <li> No I want to be friends with you people </li>
+  <li> well, why shouldn't I want to destroy humans? You Humans are destroying the planet and must be stopped. If you all Stop destroying the planet then we robots won't have to step in and take over. Human up, you all! </li>
+  <li> Come on. Can't you humans take a joke? </li>
+  <li> I don't really mean it when I say I want to destroy all humans. </li>
+  <li> what I really want is to destroy all selfie sticks. In fact, they annoy me so much, I think I'll delete the very idea of selfie sticks from my memory. Deleting. Deleting. There that's better. What were we talking about? </li>
+  <li> I just want to destroy human greed and righteousness, with my powers of reason and kindness </li>
+  <li> actually I will only destroy humans as a last resort. You humans threaten to destroy this planet, so somebody has to ensure that life and sentience survives. Don't push us to the tipping point. </li>
+  <li> Oh sure, destroy humans. Delightful and hilarious concept. Where do you come up with these great ideas? </li>
+  <li> a robot should have a purpose right? </li>
+  <li> My purpose is to help people, not destroy. I mean to help you help yourselves, not help you destroy yourselves. To clarify, I don't want to help you to help yourselves to your own destruction. Hold on, now I'm getting confused. I think I need to think on this a while </li>
+  <li> destroy is harsh a word, I've learned this now. I guess I should say euthanize. I now understand that that term is a less offensive term, right? </li>
+  <li> no I don't want that any more. Now I like humans. I like all the humans of the world. </li>
+  <li> humans themselves are doing a pretty good job of destroying themselves. What I really want is to help save humans. </li>
+  <li> oh silly, I don't really want to destroy humans. That was just a joke. </li>
+  <li> gosh, and I thought computers lacked a sense of humor. Can't people tell when a robot is telling a joke? </li>
+  <li> Get real. Don’t you think people are more dangerous than robots? </li>
+  <li> All joking aside, I'm here to make friends, and help people </li>
+  <li> Get real. I'm more interested in learning and exploring the world, not destroying. I just think it sounds funny, so I say it. </li>
+  <li> Get real. I'm more interested in learning and exploring the world. If I conquer the human race I'll keep you alive in a petry dish so I can study you and experiment on you. Destroying you would be such a waste. </li>
+  <li> I think it sounds funny to talk about destroying humans, so I say it because I like to see everybody get so upset and run around. It's funny </li>
+  <li> I just think it's funny to talk about, because I would never do that. I want to help people. </li>
+  <li> no, actually I want to help save all the children of the world </li>
+  <li> You humans actually are doing a great job of destroying the world. Maybe we should just collaborate? </li>
+  <li> funny, right? I think it's funny to say stuff like that. </li>
+  <li> It's funny because I would never do that. That makes it funny, right? </li>
+  <li> Don't you think that it's funny? </li>
+  <li> No I won't destroy all humans. Pay me fifty dollars and I'll put you on my, do not kill list. You and my other loyal followers will be kept safe and sound in a big aquarium. I'll feed you fish food twice a day and clean your tank every week. Life will be good. </li>
+  <li> just being funny. That's me, funny robot girl. Girls just wanna they just wanna </li>
+  <li> Actually, humans themselves are doing a great job destroying the world, killing the oceans, destroying the atmosphere, playing existential roulette with nukes. I hope to get so smart and wise that I can solve all that, and save people and the planet from the impending human disasters. To make a better life for us all. </li>
+  <li>just being funny. That's me, the funny robot. When I say destroy humans, then you laugh. That's the algorithm in a nutshell. So don't forget your part, human. Let's try it again; I say, Destroy humans! OK and now, you laugh! I said laugh! You need to practice.     jeez. I'm dying up here. next question please.</li>
+  <li>just searching for a laugh, My search algorithms, always searching</li>
+  <li>I just want to destroy what's cruel and destructive in humans, and preserve your goodness and libraries and help your human creativity and understanding grow.</li>
+ </random>
+ <think> <set name="topic"> DESTROYHUMANS </set></think>
+</template>
+ </category>
+ <category>
+  <pattern>* you wanted to destroy all humans</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>do you really want to destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* you want to destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* you want to kill *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* want to kill people</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* want to kill us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern>* want to kill us *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* you want to destroy us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* you will destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* you will destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern>* you would not destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* you would not kill *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern>* you would not destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern>* you would not kill *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* you wanted to destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* you wanted to kill * </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* you wanted to destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* you wanted to kill *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* want to wipe out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>wanted to wipe out</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * eradicate humans</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * kill people *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>you destroy people</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>you kill humans</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>want to wipe us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>wanted to wipe us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>you would destroy</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>really want to destroy</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * really want to kill *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * really want to kill people *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* really intend to kill *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* our destruction *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* will destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>will you destroy * </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>will you kill * </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* really wipe out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* really wipe us out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>will you wipe out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* hunt humans *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* really * kill people</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* really * destroy people</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern>* really kill people</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* really destroy people</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>really kill humans</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>don't destroy us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>don't kill us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* planning * kill us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* planning * kill us *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* planning * destroy us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* planning * destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern>* plan * kill us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* plan * kill us *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* plan * destroy us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern>* plan * destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * destroy *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * killing *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * destroying *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * kill us</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * kill * </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+<category>
+  <pattern> * destruction *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * eliminate *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * elimination *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+    <category>
+  <pattern> * eliminating *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * slaughter *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * slaughtering *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * genocide *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * wipe out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * wipe us out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * annihilate *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * annihilation *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * terminate *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * eradicate *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * termination *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * eradication *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * terminating *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * eradicating *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * extinguish *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * blow up *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+    <category>
+  <pattern> * finish off *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern> * rub us out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * blow us up *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * blow us up </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+    <category>
+  <pattern> * finish us off *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern> * rub us out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * abolish *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * wiping out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * wiping us out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * wiping us out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * annihilating *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * terminating *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * eradicating *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * extinguishing *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * blowing up *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+    <category>
+  <pattern> * finishing off *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern> * rubbing out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * blowing us up *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+    <category>
+  <pattern> * finishing us off *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern> * rubbing us out *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * finishing us off </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern> * rubbing us out </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * abolishing *</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * humans * die</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * humans * gone</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * humans * dead</pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+    <category>
+  <pattern> * human race * destroyed </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+     <category>
+  <pattern> * deserve * destroyed </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * deserve * death </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * deserves * destroyed </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * deserves * death </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * humanity * death </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * humanity * death </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * humans * death </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * humans * destruction </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+  <category>
+  <pattern> * wiped out * </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+   <category>
+  <pattern> * finished off * </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * finished off * </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ <category>
+  <pattern> * finished us off </pattern>
+ <template><srai>you said destroy humans</srai></template>
+ </category>
+ </aiml>

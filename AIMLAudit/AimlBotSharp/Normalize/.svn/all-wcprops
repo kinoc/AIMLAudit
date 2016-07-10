@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/Normalize
+END
+StripIllegalCharacters.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/Normalize/StripIllegalCharacters.cs
+END
+SplitIntoSentences.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/Normalize/SplitIntoSentences.cs
+END
+ApplySubstitutions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/Normalize/ApplySubstitutions.cs
+END
+MakeCaseInsensitive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/Normalize/MakeCaseInsensitive.cs
+END

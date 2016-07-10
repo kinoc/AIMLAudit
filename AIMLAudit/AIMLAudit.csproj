@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63985A21-A240-4318-9EC3-843E3778751A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AIMLAudit</RootNamespace>
+    <AssemblyName>AIMLAudit</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>AIMLAudit.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel.Channels" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\bot.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\condition.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\putqueue.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\date.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\filterqa.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\formal.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\gender.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\get.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\gossip.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\id.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\input.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\javascript.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\learn.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\lowercase.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\pannouserver.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\peekinput.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\person.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\person2.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\pop.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\push.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\random.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\refserver.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\sentence.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\set.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\size.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\sr.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\srai.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\star.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\summerize.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\system.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\that.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\thatstar.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\think.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\topicstar.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\uppercase.cs" />
+    <Compile Include="AimlBotSharp\AIMLTagHandlers\version.cs" />
+    <Compile Include="AimlBotSharp\Bot.cs" />
+    <Compile Include="AimlBotSharp\Normalize\ApplySubstitutions.cs" />
+    <Compile Include="AimlBotSharp\Normalize\MakeCaseInsensitive.cs" />
+    <Compile Include="AimlBotSharp\Normalize\SplitIntoSentences.cs" />
+    <Compile Include="AimlBotSharp\Normalize\StripIllegalCharacters.cs" />
+    <Compile Include="AimlBotSharp\Request.cs" />
+    <Compile Include="AimlBotSharp\Result.cs" />
+    <Compile Include="AimlBotSharp\User.cs" />
+    <Compile Include="AimlBotSharp\Utils\AIMLLoader.cs" />
+    <Compile Include="AimlBotSharp\Utils\AIMLTagHandler.cs" />
+    <Compile Include="AimlBotSharp\Utils\CustomTag.cs" />
+    <Compile Include="AimlBotSharp\Utils\Gender.cs" />
+    <Compile Include="AimlBotSharp\Utils\JSON.cs" />
+    <Compile Include="AimlBotSharp\Utils\MatchState.cs" />
+    <Compile Include="AimlBotSharp\Utils\Node.cs" />
+    <Compile Include="AimlBotSharp\Utils\SettingsDictionary.cs" />
+    <Compile Include="AimlBotSharp\Utils\SMLTranslator.cs" />
+    <Compile Include="AimlBotSharp\Utils\SubQuery.cs" />
+    <Compile Include="AimlBotSharp\Utils\TagHandler.cs" />
+    <Compile Include="AimlBotSharp\Utils\TextRanker.cs" />
+    <Compile Include="AimlBotSharp\Utils\TextTransformer.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="httpsqsClient.cs" />
+    <Compile Include="httpsqsSer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\entries" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\bot.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\condition.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\date.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\formal.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\gender.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\get.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\gossip.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\id.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\input.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\javascript.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\learn.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\lowercase.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\person.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\person2.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\random.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\sentence.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\set.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\size.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\sr.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\srai.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\star.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\system.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\that.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\thatstar.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\think.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\topicstar.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\uppercase.cs.svn-base" />
+    <None Include="AimlBotSharp\AIMLTagHandlers\.svn\text-base\version.cs.svn-base" />
+    <None Include="AimlBotSharp\bin\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\bin\.svn\entries" />
+    <None Include="AimlBotSharp\bin\Debug\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\bin\Debug\.svn\entries" />
+    <None Include="AimlBotSharp\bin\Debug\.svn\prop-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\bin\Debug\.svn\prop-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\bin\Debug\.svn\text-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\bin\Debug\.svn\text-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\bin\Release\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\bin\Release\.svn\entries" />
+    <None Include="AimlBotSharp\bin\Release\.svn\prop-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\bin\Release\.svn\prop-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\bin\Release\.svn\text-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\bin\Release\.svn\text-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\entries" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\text-base\DefaultPredicates.xml.svn-base" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\text-base\GenderSubstitutions.xml.svn-base" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\text-base\Person2Substitutions.xml.svn-base" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\text-base\PersonSubstitutions.xml.svn-base" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\text-base\Settings.xml.svn-base">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\text-base\Splitters.xml.svn-base" />
+    <None Include="AimlBotSharp\ConfigurationFiles\.svn\text-base\Substitutions.xml.svn-base" />
+    <None Include="AimlBotSharp\Normalize\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\Normalize\.svn\entries" />
+    <None Include="AimlBotSharp\Normalize\.svn\text-base\ApplySubstitutions.cs.svn-base" />
+    <None Include="AimlBotSharp\Normalize\.svn\text-base\MakeCaseInsensitive.cs.svn-base" />
+    <None Include="AimlBotSharp\Normalize\.svn\text-base\SplitIntoSentences.cs.svn-base" />
+    <None Include="AimlBotSharp\Normalize\.svn\text-base\StripIllegalCharacters.cs.svn-base" />
+    <None Include="AimlBotSharp\obj\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\obj\.svn\entries" />
+    <None Include="AimlBotSharp\obj\.svn\text-base\AIMLbot.csproj.FileList.txt.svn-base" />
+    <None Include="AimlBotSharp\obj\Debug\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\obj\Debug\.svn\entries" />
+    <None Include="AimlBotSharp\obj\Debug\.svn\prop-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\obj\Debug\.svn\prop-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\obj\Debug\.svn\text-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\obj\Debug\.svn\text-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="AimlBotSharp\obj\Debug\Refactor\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\obj\Debug\Refactor\.svn\entries" />
+    <None Include="AimlBotSharp\obj\Debug\TempPE\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\obj\Debug\TempPE\.svn\entries" />
+    <None Include="AimlBotSharp\obj\Debug\TempPE\.svn\prop-base\SatelliteAssemblies.Substitutions.Designer.cs.dll.svn-base" />
+    <None Include="AimlBotSharp\obj\Debug\TempPE\.svn\text-base\SatelliteAssemblies.Substitutions.Designer.cs.dll.svn-base" />
+    <None Include="AimlBotSharp\obj\Release\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\obj\Release\.svn\entries" />
+    <None Include="AimlBotSharp\obj\Release\.svn\prop-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\obj\Release\.svn\prop-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\obj\Release\.svn\text-base\AIMLbot.dll.svn-base" />
+    <None Include="AimlBotSharp\obj\Release\.svn\text-base\AIMLbot.pdb.svn-base" />
+    <None Include="AimlBotSharp\obj\Release\Refactor\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\obj\Release\Refactor\.svn\entries" />
+    <None Include="AimlBotSharp\obj\Release\TempPE\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\obj\Release\TempPE\.svn\entries" />
+    <None Include="AimlBotSharp\Utils\.svn\all-wcprops" />
+    <None Include="AimlBotSharp\Utils\.svn\entries" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\AIMLLoader.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\AIMLTagHandler.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\CustomTag.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\Gender.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\MatchState.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\Node.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\SettingsDictionary.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\SubQuery.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\TagHandler.cs.svn-base" />
+    <None Include="AimlBotSharp\Utils\.svn\text-base\TextTransformer.cs.svn-base" />
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AimlBotSharp\About.txt" />
+    <Content Include="AimlBotSharp\AIMLbot.csproj" />
+    <Content Include="AimlBotSharp\bin\Debug\AIMLbot.dll" />
+    <Content Include="AimlBotSharp\bin\Debug\AIMLbot.pdb" />
+    <Content Include="AimlBotSharp\bin\Release\AIMLbot.dll" />
+    <Content Include="AimlBotSharp\bin\Release\AIMLbot.pdb" />
+    <Content Include="AimlBotSharp\ConfigurationFiles\DefaultPredicates.xml" />
+    <Content Include="AimlBotSharp\ConfigurationFiles\GenderSubstitutions.xml" />
+    <Content Include="AimlBotSharp\ConfigurationFiles\Person2Substitutions.xml" />
+    <Content Include="AimlBotSharp\ConfigurationFiles\PersonSubstitutions.xml" />
+    <Content Include="AimlBotSharp\ConfigurationFiles\Settings.xml" />
+    <Content Include="AimlBotSharp\ConfigurationFiles\Splitters.xml" />
+    <Content Include="AimlBotSharp\ConfigurationFiles\Substitutions.xml" />
+    <Content Include="AimlBotSharp\License.txt" />
+    <Content Include="AimlBotSharp\obj\AIMLbot.csproj.FileList.txt" />
+    <Content Include="AimlBotSharp\obj\Debug\AIMLbot.csproj.FileListAbsolute.txt" />
+    <Content Include="AimlBotSharp\obj\Debug\AIMLbot.dll" />
+    <Content Include="AimlBotSharp\obj\Debug\AIMLbot.pdb" />
+    <Content Include="AimlBotSharp\obj\Debug\Refactor\AIMLbot.dll" />
+    <Content Include="AimlBotSharp\obj\Debug\TempPE\SatelliteAssemblies.Substitutions.Designer.cs.dll" />
+    <Content Include="AimlBotSharp\obj\Release\AIMLbot.dll" />
+    <Content Include="AimlBotSharp\obj\Release\AIMLbot.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AimlBotSharp\AIMLTagHandlers\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\AIMLTagHandlers\.svn\props\" />
+    <Folder Include="AimlBotSharp\AIMLTagHandlers\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\AIMLTagHandlers\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\AIMLTagHandlers\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\bin\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\bin\.svn\props\" />
+    <Folder Include="AimlBotSharp\bin\.svn\text-base\" />
+    <Folder Include="AimlBotSharp\bin\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\bin\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\bin\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\bin\Debug\.svn\props\" />
+    <Folder Include="AimlBotSharp\bin\Debug\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\bin\Debug\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\bin\Debug\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\bin\Release\.svn\props\" />
+    <Folder Include="AimlBotSharp\bin\Release\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\bin\Release\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\bin\Release\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\ConfigurationFiles\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\ConfigurationFiles\.svn\props\" />
+    <Folder Include="AimlBotSharp\ConfigurationFiles\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\ConfigurationFiles\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\ConfigurationFiles\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\Normalize\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\Normalize\.svn\props\" />
+    <Folder Include="AimlBotSharp\Normalize\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\Normalize\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\Normalize\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\obj\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\.svn\props\" />
+    <Folder Include="AimlBotSharp\obj\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\obj\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\.svn\props\" />
+    <Folder Include="AimlBotSharp\obj\Debug\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\obj\Debug\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\Refactor\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\Refactor\.svn\props\" />
+    <Folder Include="AimlBotSharp\obj\Debug\Refactor\.svn\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\Refactor\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\Refactor\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\obj\Debug\Refactor\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\TempPE\.svn\props\" />
+    <Folder Include="AimlBotSharp\obj\Debug\TempPE\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Debug\TempPE\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\obj\Debug\TempPE\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\.svn\props\" />
+    <Folder Include="AimlBotSharp\obj\Release\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\obj\Release\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\Refactor\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\Refactor\.svn\props\" />
+    <Folder Include="AimlBotSharp\obj\Release\Refactor\.svn\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\Refactor\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\Refactor\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\obj\Release\Refactor\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\TempPE\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\TempPE\.svn\props\" />
+    <Folder Include="AimlBotSharp\obj\Release\TempPE\.svn\text-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\TempPE\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\obj\Release\TempPE\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\obj\Release\TempPE\.svn\tmp\text-base\" />
+    <Folder Include="AimlBotSharp\Utils\.svn\prop-base\" />
+    <Folder Include="AimlBotSharp\Utils\.svn\props\" />
+    <Folder Include="AimlBotSharp\Utils\.svn\tmp\prop-base\" />
+    <Folder Include="AimlBotSharp\Utils\.svn\tmp\props\" />
+    <Folder Include="AimlBotSharp\Utils\.svn\tmp\text-base\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

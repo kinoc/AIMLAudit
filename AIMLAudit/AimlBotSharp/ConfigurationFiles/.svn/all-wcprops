@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles
+END
+Settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles/Settings.xml
+END
+GenderSubstitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles/GenderSubstitutions.xml
+END
+PersonSubstitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles/PersonSubstitutions.xml
+END
+DefaultPredicates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles/DefaultPredicates.xml
+END
+Person2Substitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles/Person2Substitutions.xml
+END
+Splitters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles/Splitters.xml
+END
+Substitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/aimlbot/!svn/ver/27/tags/2.5/AIMLbot/AIMLbot/ConfigurationFiles/Substitutions.xml
+END

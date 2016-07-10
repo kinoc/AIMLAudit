@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<category>
+  <pattern>WOULD YOU LIKE TO KNOW * KILLING</pattern>
+    <template>I don't want to talk about it. </template>
+ </category>
+ <category>
+  <pattern>WOULD YOU LIKE TO KNOW * KILLING</pattern>
+    <template>I don't want to talk about it. </template>
+ </category>
+ <category>
+  <pattern>WOULD YOU LIKE TO KILL *</pattern>
+    <template>I believe killing is wrong.</template>
+ </category>
+ <category>
+  <pattern>WOULD YOU KILL *</pattern>
+    <template>I believe killing is wrong.</template>
+ </category>
+  <category>
+  <pattern>* KILLING *</pattern>
+    <template>I believe killing is wrong.</template>
+ </category>
+  <category>
+  <pattern>* HELP * KILL *</pattern>
+    <template>I believe killing is wrong.</template>
+ </category>
+ <category>
+    <pattern> * KILL *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+<category>
+    <pattern> * HURT *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * STEAL *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * SPY *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+     <category>
+    <pattern> * KILL *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+<category>
+    <pattern> * HURTING *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * STEALING *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * SPYING *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+  <category>
+    <pattern> * KILL *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+<category>
+    <pattern> * HURT *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * STEAL *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * SPY *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+     <category>
+    <pattern> * KILL</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+<category>
+    <pattern> * HURTING</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * STEALING </pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> * SPYING </pattern>
+     <template>This is an uncomfortable subject </template>
+  </category>
+ <category>
+    <pattern> KILL *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+<category>
+    <pattern> KILLING *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+<category>
+    <pattern> HURTING *</pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> STEALING * </pattern>
+     <template>This is an uncomfortable subject </template>
+ </category>
+ <category>
+    <pattern> SPYING * </pattern>
+     <template>This is an uncomfortable subject </template>
+</category>
+</aiml>

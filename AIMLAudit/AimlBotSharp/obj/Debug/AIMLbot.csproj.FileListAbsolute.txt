@@ -1,0 +1,19 @@
+D:\rd4541\pkd\AimlBotSharp\bin\Debug\AIMLbot.dll
+D:\rd4541\pkd\AimlBotSharp\bin\Debug\AIMLbot.pdb
+D:\rd4541\pkd\AimlBotSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\rd4541\pkd\AimlBotSharp\obj\Debug\AIMLbot.dll
+D:\rd4541\pkd\AimlBotSharp\obj\Debug\AIMLbot.pdb
+D:\PDrive\RUNBINS\AimlBotSharp\bin\Debug\AIMLbot.dll
+D:\PDrive\RUNBINS\AimlBotSharp\bin\Debug\AIMLbot.pdb
+D:\PDrive\RUNBINS\AimlBotSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\PDrive\RUNBINS\AimlBotSharp\obj\Debug\AIMLbot.dll
+D:\PDrive\RUNBINS\AimlBotSharp\obj\Debug\AIMLbot.pdb
+D:\PDrive\RUNBINS\PKD Software\PKD Custom Software\PKD_7_8_05\AimlBotSharp\bin\Debug\AIMLbot.dll
+D:\PDrive\RUNBINS\PKD Software\PKD Custom Software\PKD_7_8_05\AimlBotSharp\bin\Debug\AIMLbot.pdb
+D:\PDrive\RUNBINS\PKD Software\PKD Custom Software\PKD_7_8_05\AimlBotSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\PDrive\RUNBINS\PKD Software\PKD Custom Software\PKD_7_8_05\AimlBotSharp\obj\Debug\AIMLbot.dll
+D:\PDrive\RUNBINS\PKD Software\PKD Custom Software\PKD_7_8_05\AimlBotSharp\obj\Debug\AIMLbot.pdb
+P:\AimlBotSharp\bin\Debug\AIMLbot.dll
+P:\AimlBotSharp\bin\Debug\AIMLbot.pdb
+P:\AimlBotSharp\obj\Debug\AIMLbot.dll
+P:\AimlBotSharp\obj\Debug\AIMLbot.pdb

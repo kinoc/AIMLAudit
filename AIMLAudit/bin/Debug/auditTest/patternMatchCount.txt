@@ -1,0 +1,470 @@
+AANULL	* <THAT> * WHAT	146
+AANULL	* <THAT> * WHAT IS	146
+AANULL	* <THAT> HOW	112
+AANULL	* <THAT> HOW DO	28
+AANULL	* <THAT> HOW DO YOU	28
+AANULL	* <THAT> SO	59
+AANULL	* A	104
+AANULL	* AND	144
+AANULL	* CARE	78
+AANULL	* FOR	248
+AANULL	* IN	144
+AANULL	* KNOW	136
+AANULL	* OF	104
+AANULL	* PM	248
+AANULL	ARE YOU BOT	120
+AANULL	ARE YOU TRYING TO STEAL	81
+AANULL	DICK	100
+AANULL	DICK <THAT>	100
+AANULL	DON	214
+AANULL	EN	87
+AANULL	HOW IT	160
+AANULL	I DON	940
+AANULL	I NOT	108
+AANULL	MURDER	292
+AANULL	NO I	93
+AANULL	NO YOU	227
+AANULL	PERSONALITY	160
+AANULL	PERSONALITY TEST	160
+AANULL	POOR	168
+AANULL	RAPE	140
+AANULL	ROBOT	372
+AANULL	RUSSIAN	196
+AANULL	TOPICAL	1330
+AANULL	TOPICAL <THAT>	1330
+AANULL	TOPICAL <THAT> * <TOPIC>	2660
+AANULL	WHAT IS A HAMMER	104
+AANULL	WHAT IS BLUE	162
+AANULL	YES <THAT> * YOU	34
+AANULL	YES <THAT> ARE	34
+AANULL	YES <THAT> ARE YOU	34
+AANULL	YES <THAT> THAT	34
+AANULL	YES <THAT> THAT IS	34
+AANULL	YOU * A	153
+AANULL	YOUR HOUSE	112
+ai.aiml	I HOPE THAT YOU DIE <THAT> * <TOPIC> *	172
+atomic.aiml	A LOT <THAT> * <TOPIC> *	90
+atomic.aiml	ABOUT WHAT <THAT> * <TOPIC> *	148
+atomic.aiml	AND <THAT> * <TOPIC> *	268
+atomic.aiml	AND YOU <THAT> * <TOPIC> *	514
+atomic.aiml	ANSWER THE QUESTION <THAT> * <TOPIC> *	100
+atomic.aiml	ARE YOU <THAT> * <TOPIC> *	408
+atomic.aiml	BAD <THAT> * <TOPIC> *	164
+atomic.aiml	BECAUSE <THAT> * <TOPIC> *	184
+atomic.aiml	BLACK <THAT> * <TOPIC> *	93
+atomic.aiml	BLAH <THAT> * <TOPIC> *	132
+atomic.aiml	BOOBS <THAT> * <TOPIC> *	172
+atomic.aiml	BORING <THAT> * <TOPIC> *	132
+atomic.aiml	BOTH <THAT> * <TOPIC> *	244
+atomic.aiml	BULLSHIT <THAT> * <TOPIC> *	132
+atomic.aiml	COME ON <THAT> * <TOPIC> *	93
+atomic.aiml	CUNT <THAT> * <TOPIC> *	192
+atomic.aiml	DO YOU <THAT> * <TOPIC> *	276
+atomic.aiml	DONE WHAT <THAT> * <TOPIC> *	90
+atomic.aiml	ENGLISH <THAT> * <TOPIC> *	108
+atomic.aiml	EVERYTHING <THAT> * <TOPIC> *	252
+atomic.aiml	EXCUSE ME <THAT> * <TOPIC> *	81
+atomic.aiml	GO <THAT> * <TOPIC> *	177
+atomic.aiml	GO ON <THAT> * <TOPIC> *	192
+atomic.aiml	GOOD <THAT> * <TOPIC> *	2161
+atomic.aiml	GOOD FOR YOU <THAT> * <TOPIC> *	168
+atomic.aiml	GUESS <THAT> * <TOPIC> *	87
+atomic.aiml	HAVE YOU <THAT> * <TOPIC> *	112
+atomic.aiml	HELP <THAT> * <TOPIC> *	6250
+atomic.aiml	HERE <THAT> * <TOPIC> *	136
+atomic.aiml	HI HOW ARE YOU <THAT> * <TOPIC> *	136
+atomic.aiml	HOW <THAT> * <TOPIC> *	340
+atomic.aiml	HOW ABOUT YOU <THAT> * <TOPIC> *	112
+atomic.aiml	HOW DO YOU KNOW <THAT> * <TOPIC> *	96
+atomic.aiml	I DISAGREE <THAT> * <TOPIC> *	120
+atomic.aiml	I DO NOT <THAT> * <TOPIC> *	425
+atomic.aiml	I DO NOT CARE <THAT> * <TOPIC> *	164
+atomic.aiml	I DO NOT KNOW <THAT> * <TOPIC> *	2220
+atomic.aiml	I GUESS <THAT> * <TOPIC> *	132
+atomic.aiml	I HATE YOU <THAT> * <TOPIC> *	272
+atomic.aiml	I KNOW <THAT> * <TOPIC> *	568
+atomic.aiml	I THINK SO <THAT> * <TOPIC> *	176
+atomic.aiml	I WILL <THAT> * <TOPIC> *	104
+atomic.aiml	INTERESTING <THAT> * <TOPIC> *	280
+atomic.aiml	IS IT <THAT> * <TOPIC> *	90
+atomic.aiml	KNOCK KNOCK <THAT> * <TOPIC> *	116
+atomic.aiml	LOL <THAT> * <TOPIC> *	6015
+atomic.aiml	LOVE <THAT> * <TOPIC> *	90
+atomic.aiml	ME NEITHER <THAT> * <TOPIC> *	124
+atomic.aiml	ME TOO <THAT> * <TOPIC> *	1234
+atomic.aiml	NEVERMIND <THAT> * <TOPIC> *	165
+atomic.aiml	NICE TO MEET YOU <THAT> * <TOPIC> *	87
+atomic.aiml	NO THANKS <THAT> * <TOPIC> *	164
+atomic.aiml	NO WAY <THAT> * <TOPIC> *	140
+atomic.aiml	NONE <THAT> * <TOPIC> *	392
+atomic.aiml	NOT AT ALL <THAT> * <TOPIC> *	212
+atomic.aiml	NOT FUNNY <THAT> * <TOPIC> *	81
+atomic.aiml	NOT REALLY <THAT> * <TOPIC> *	1060
+atomic.aiml	NOT YET <THAT> * <TOPIC> *	104
+atomic.aiml	NOT YOU <THAT> * <TOPIC> *	75
+atomic.aiml	NOTHING <THAT> * <TOPIC> *	1004
+atomic.aiml	NOW <THAT> * <TOPIC> *	116
+atomic.aiml	OUCH <THAT> * <TOPIC> *	93
+atomic.aiml	PARDON <THAT> * <TOPIC> *	78
+atomic.aiml	PENIS <THAT> * <TOPIC> *	332
+atomic.aiml	PERHAPS <THAT> * <TOPIC> *	78
+atomic.aiml	POOP <THAT> * <TOPIC> *	136
+atomic.aiml	PORN <THAT> * <TOPIC> *	156
+atomic.aiml	PROBABLY <THAT> * <TOPIC> *	120
+atomic.aiml	PROVE IT <THAT> * <TOPIC> *	463
+atomic.aiml	SAME <THAT> * <TOPIC> *	104
+atomic.aiml	SO WHAT <THAT> * <TOPIC> *	140
+atomic.aiml	SORRY <THAT> * <TOPIC> *	1196
+atomic.aiml	SPANISH <THAT> * <TOPIC> *	93
+atomic.aiml	STOP <THAT> * <TOPIC> *	396
+atomic.aiml	STOP IT <THAT> * <TOPIC> *	81
+atomic.aiml	STUPID <THAT> * <TOPIC> *	164
+atomic.aiml	TALKING TO YOU <THAT> * <TOPIC> *	87
+atomic.aiml	TELL ME <THAT> * <TOPIC> *	132
+atomic.aiml	TELL ME MORE <THAT> * <TOPIC> *	248
+atomic.aiml	TEST <THAT> * <TOPIC> *	100
+atomic.aiml	THANKS <THAT> * <TOPIC> *	1388
+atomic.aiml	THREE <THAT> * <TOPIC> *	93
+atomic.aiml	TWO <THAT> * <TOPIC> *	81
+atomic.aiml	VERY <THAT> * <TOPIC> *	136
+atomic.aiml	WELL <THAT> * <TOPIC> *	168
+atomic.aiml	WHAT <THAT> * <TOPIC> *	5386
+atomic.aiml	WHAT ABOUT YOU <THAT> * <TOPIC> *	168
+atomic.aiml	WHAT COLOR IS YOUR HAIR <THAT> * <TOPIC> *	104
+atomic.aiml	WHATEVER <THAT> * <TOPIC> *	144
+atomic.aiml	WHEN <THAT> * <TOPIC> *	172
+atomic.aiml	WHERE <THAT> * <TOPIC> *	270
+atomic.aiml	WHO <THAT> * <TOPIC> *	249
+atomic.aiml	WHORE <THAT> * <TOPIC> *	81
+atomic.aiml	WHY <THAT> * <TOPIC> *	8557
+atomic.aiml	WHY DO YOU ASK <THAT> * <TOPIC> *	116
+atomic.aiml	YES YOU ARE <THAT> * <TOPIC> *	336
+atomic.aiml	YOU FIRST <THAT> * <TOPIC> *	104
+atomic.aiml	YOU SHOULD <THAT> * <TOPIC> *	116
+atomic.aiml	YOU TELL ME <THAT> * <TOPIC> *	140
+atomic.aiml	YOU TOO <THAT> * <TOPIC> *	148
+atomic.aiml	YOUR ASS <THAT> * <TOPIC> *	78
+atomic.aiml	YOUR FACE <THAT> * <TOPIC> *	128
+badanswer.aiml	BAD ANSWER <THAT> * <TOPIC> *	165
+badanswer.aiml	WRONG <THAT> * <TOPIC> *	165
+bot.aiml	ARE YOU * <THAT> * <TOPIC> *	120
+bot.aiml	ARE YOU SEXY <THAT> * <TOPIC> *	112
+bot.aiml	ARE YOU TRYING TO * <THAT> * <TOPIC> *	81
+bot.aiml	CAN YOU SPEAK CHINESE <THAT> * <TOPIC> *	75
+bot.aiml	DO YOU LIKE PIZZA <THAT> * <TOPIC> *	100
+bot.aiml	DO YOU SPEAK RUSSIAN <THAT> * <TOPIC> *	84
+bot.aiml	WHAT DO YOU DO FOR A LIVING <THAT> * <TOPIC> *	75
+bot.aiml	WHAT DO YOU LOOK LIKE <THAT> * <TOPIC> *	156
+bot.aiml	WHAT DO YOU MEAN <THAT> * <TOPIC> *	780
+bot.aiml	WHAT DO YOU THINK <THAT> * <TOPIC> *	84
+bot.aiml	YOU ARE A ROBOT <THAT> * <TOPIC> *	290
+bot.aiml	YOU ARE DOING WELL <THAT> * <TOPIC> *	196
+bot.aiml	YOU ARE FUNNY <THAT> * <TOPIC> *	81
+bot.aiml	YOU ARE RIGHT <THAT> * <TOPIC> *	96
+bot_profile.aiml	AGE <THAT> * <TOPIC> *	480
+bot_profile.aiml	BIO <THAT> * <TOPIC> *	90
+bot_profile.aiml	BIRTHDATE <THAT> * <TOPIC> *	84
+bot_profile.aiml	GENDER <THAT> * <TOPIC> *	2342
+bot_profile.aiml	HEIGHT <THAT> * <TOPIC> *	423
+bot_profile.aiml	LOCATION <THAT> * <TOPIC> *	860
+bot_profile.aiml	SIZE <THAT> * <TOPIC> *	124
+client.aiml	I AM FEMALE <THAT> * <TOPIC> *	87
+client.aiml	I AM FINE <THAT> * <TOPIC> *	184
+client.aiml	I AM IN * <THAT> * <TOPIC> *	294
+client.aiml	I AM NOT SURE <THAT> * <TOPIC> *	75
+client.aiml	I LIKE YOU <THAT> * <TOPIC> *	252
+client.aiml	I LOVE YOU <THAT> * <TOPIC> *	856
+client_profile.aiml	MY NAME <THAT> * <TOPIC> *	128
+default.aiml	* IS * <THAT> * <TOPIC> *	30
+default.aiml	* OR * <THAT> * <TOPIC> *	104
+default.aiml	CHANGE * <THAT> * <TOPIC> *	104
+default.aiml	HOW MANY YEARS * <THAT> * <TOPIC> *	312
+default.aiml	I DO NOT HAVE * <THAT> * <TOPIC> *	81
+default.aiml	I WANT * <THAT> * <TOPIC> *	100
+default.aiml	MY * <THAT> * <TOPIC> *	84
+default.aiml	NOT * <THAT> * <TOPIC> *	188
+default.aiml	STOP * <THAT> * <TOPIC> *	93
+default.aiml	YOUR * <THAT> * <TOPIC> *	112
+geography.aiml	WHERE IS THAT <THAT> * <TOPIC> *	108
+gossip.aiml	GOSSIP <THAT> * <TOPIC> *	361
+interjection.aiml	INTERJECTION <THAT> * <TOPIC> *	79523
+iu.aiml	I * <THAT> * <TOPIC> *	1216
+iu.aiml	YOU * <THAT> * <TOPIC> *	261
+knowledge.aiml	WHAT IS IT <THAT> * <TOPIC> *	128
+MAXRECURSION	295
+mp0.aiml	INSULT <THAT> * <TOPIC> *	7335
+mp5.aiml	WILL YOU MARRY ME <THAT> * <TOPIC> *	75
+pyschology.aiml	WHAT ARE YOU STUDYING <THAT> * <TOPIC> *	87
+pyschology.aiml	YOU LIE <THAT> * <TOPIC> *	124
+reduction1.safe.aiml	ANSWER MY QUESTION <THAT> * <TOPIC> *	100
+reduction1.safe.aiml	ARE YOU A BOT <THAT> * <TOPIC> *	288
+reduction1.safe.aiml	ARE YOU DATING ANYONE <THAT> * <TOPIC> *	93
+reduction1.safe.aiml	ARE YOU HUMAN <THAT> * <TOPIC> *	408
+reduction1.safe.aiml	ASD <THAT> * <TOPIC> *	120
+reduction1.safe.aiml	ASDF <THAT> * <TOPIC> *	120
+reduction1.safe.aiml	BYEBYE <THAT> * <TOPIC> *	100
+reduction1.safe.aiml	FINE * <THAT> * <TOPIC> *	78
+reduction1.safe.aiml	GAY <THAT> * <TOPIC> *	192
+reduction1.safe.aiml	GO AWAY <THAT> * <TOPIC> *	78
+reduction1.safe.aiml	GOOD BYE <THAT> * <TOPIC> *	204
+reduction1.safe.aiml	GOODBYE <THAT> * <TOPIC> *	352
+reduction1.safe.aiml	I HAVE TO GO <THAT> * <TOPIC> *	140
+reduction1.safe.aiml	I SAID * <THAT> * <TOPIC> *	81
+reduction1.safe.aiml	IF YOU ARE * <THAT> * <TOPIC> *	81
+reduction1.safe.aiml	SEE YOU <THAT> * <TOPIC> *	100
+reduction1.safe.aiml	YOU ARE <THAT> * <TOPIC> *	216
+reduction1.safe.aiml	YOU ARE A BOT <THAT> * <TOPIC> *	172
+reduction2.safe.aiml	AGREED <THAT> * <TOPIC> *	96
+reduction2.safe.aiml	AH <THAT> * <TOPIC> *	124
+reduction2.safe.aiml	AHA <THAT> * <TOPIC> *	204
+reduction2.safe.aiml	AWESOME <THAT> * <TOPIC> *	124
+reduction2.safe.aiml	BITCH <THAT> * <TOPIC> *	460
+reduction2.safe.aiml	BOT <THAT> * <TOPIC> *	260
+reduction2.safe.aiml	CHINESE <THAT> * <TOPIC> *	248
+reduction2.safe.aiml	COOL <THAT> * <TOPIC> *	972
+reduction2.safe.aiml	DO NOT KNOW <THAT> * <TOPIC> *	87
+reduction2.safe.aiml	DO YOU LIKE SEX <THAT> * <TOPIC> *	381
+reduction2.safe.aiml	DUNNO <THAT> * <TOPIC> *	164
+reduction2.safe.aiml	EH <THAT> * <TOPIC> *	100
+reduction2.safe.aiml	EXACTLY <THAT> * <TOPIC> *	176
+reduction2.safe.aiml	FINE THANKS <THAT> * <TOPIC> *	184
+reduction2.safe.aiml	FUCK * <THAT> * <TOPIC> *	81
+reduction2.safe.aiml	FUCK <THAT> * <TOPIC> *	5659
+reduction2.safe.aiml	FUCK ME <THAT> * <TOPIC> *	184
+reduction2.safe.aiml	FUCK OFF <THAT> * <TOPIC> *	396
+reduction2.safe.aiml	FUCK YOU <THAT> * <TOPIC> *	2398
+reduction2.safe.aiml	FUNNY <THAT> * <TOPIC> *	184
+reduction2.safe.aiml	GERMAN <THAT> * <TOPIC> *	90
+reduction2.safe.aiml	GREAT <THAT> * <TOPIC> *	372
+reduction2.safe.aiml	HA <THAT> * <TOPIC> *	2273
+reduction2.safe.aiml	HA HA <THAT> * <TOPIC> *	332
+reduction2.safe.aiml	HAH <THAT> * <TOPIC> *	132
+reduction2.safe.aiml	HALLO <THAT> * <TOPIC> *	81
+reduction2.safe.aiml	HE <THAT> * <TOPIC> *	312
+reduction2.safe.aiml	HEH <THAT> * <TOPIC> *	112
+reduction2.safe.aiml	HELLO * <THAT> * <TOPIC> *	112
+reduction2.safe.aiml	HELLO THERE <THAT> * <TOPIC> *	120
+reduction2.safe.aiml	HEY <THAT> * <TOPIC> *	1732
+reduction2.safe.aiml	HI * <THAT> * <TOPIC> *	464
+reduction2.safe.aiml	HM <THAT> * <TOPIC> *	128
+reduction2.safe.aiml	HMM <THAT> * <TOPIC> *	390
+reduction2.safe.aiml	HMMM <THAT> * <TOPIC> *	93
+reduction2.safe.aiml	HOLA <THAT> * <TOPIC> *	156
+reduction2.safe.aiml	HOW ARE YOU * <THAT> * <TOPIC> *	352
+reduction2.safe.aiml	HOW MUCH DO YOU WEIGH <THAT> * <TOPIC> *	124
+reduction2.safe.aiml	HOW R YOU <THAT> * <TOPIC> *	75
+reduction2.safe.aiml	HUH <THAT> * <TOPIC> *	852
+reduction2.safe.aiml	I AGREE <THAT> * <TOPIC> *	860
+reduction2.safe.aiml	I ALREADY * <THAT> * <TOPIC> *	81
+reduction2.safe.aiml	I AM A SHE <THAT> * <TOPIC> *	87
+reduction2.safe.aiml	I AM CHINESE <THAT> * <TOPIC> *	248
+reduction2.safe.aiml	I AM SORRY <THAT> * <TOPIC> *	108
+reduction2.safe.aiml	I DON <THAT> * <TOPIC> *	313
+reduction2.safe.aiml	I DON KNOW <THAT> * <TOPIC> *	1168
+reduction2.safe.aiml	I DUNNO <THAT> * <TOPIC> *	93
+reduction2.safe.aiml	I SEE <THAT> * <TOPIC> *	652
+reduction2.safe.aiml	I SORRY <THAT> * <TOPIC> *	108
+reduction2.safe.aiml	INDEED <THAT> * <TOPIC> *	508
+reduction2.safe.aiml	LIAR <THAT> * <TOPIC> *	168
+reduction2.safe.aiml	LIKE WHAT <THAT> * <TOPIC> *	361
+reduction2.safe.aiml	MAY BE <THAT> * <TOPIC> *	78
+reduction2.safe.aiml	MAYBE <THAT> * <TOPIC> *	1078
+reduction2.safe.aiml	ME TO <THAT> * <TOPIC> *	78
+reduction2.safe.aiml	MMM <THAT> * <TOPIC> *	78
+reduction2.safe.aiml	NAH <THAT> * <TOPIC> *	192
+reduction2.safe.aiml	NEITHER <THAT> * <TOPIC> *	188
+reduction2.safe.aiml	NEVER <THAT> * <TOPIC> *	308
+reduction2.safe.aiml	NEVER MIND <THAT> * <TOPIC> *	84
+reduction2.safe.aiml	NIGGER <THAT> * <TOPIC> *	220
+reduction2.safe.aiml	NO * <THAT> * <TOPIC> *	407
+reduction2.safe.aiml	NO <THAT> * <TOPIC> *	28263
+reduction2.safe.aiml	NOP <THAT> * <TOPIC> *	132
+reduction2.safe.aiml	NOPE <THAT> * <TOPIC> *	3093
+reduction2.safe.aiml	NOT <THAT> * <TOPIC> *	84
+reduction2.safe.aiml	NOT SURE <THAT> * <TOPIC> *	75
+reduction2.safe.aiml	OH <THAT> * <TOPIC> *	804
+reduction2.safe.aiml	OH REALLY <THAT> * <TOPIC> *	136
+reduction2.safe.aiml	OK <THAT> * <TOPIC> *	6128
+reduction2.safe.aiml	PIZZA <THAT> * <TOPIC> *	100
+reduction2.safe.aiml	PUSSY <THAT> * <TOPIC> *	116
+reduction2.safe.aiml	REALLY <THAT> * <TOPIC> *	2233
+reduction2.safe.aiml	SEXY <THAT> * <TOPIC> *	144
+reduction2.safe.aiml	SHE <THAT> * <TOPIC> *	87
+reduction2.safe.aiml	SHIT <THAT> * <TOPIC> *	436
+reduction2.safe.aiml	SHUT UP <THAT> * <TOPIC> *	484
+reduction2.safe.aiml	SO <THAT> * <TOPIC> *	652
+reduction2.safe.aiml	UM <THAT> * <TOPIC> *	221
+reduction2.safe.aiml	WHEN WERE YOU BORN <THAT> * <TOPIC> *	84
+reduction2.safe.aiml	WOW <THAT> * <TOPIC> *	576
+reduction2.safe.aiml	WTF <THAT> * <TOPIC> *	448
+reduction2.safe.aiml	YEARS <THAT> * <TOPIC> *	312
+reduction2.safe.aiml	YES <THAT> * <TOPIC> *	32789
+reduction2.safe.aiml	YO <THAT> * <TOPIC> *	196
+reduction2.safe.aiml	YOU ARE DUMB <THAT> * <TOPIC> *	84
+reduction2.safe.aiml	YOU ARE STUPID <THAT> * <TOPIC> *	192
+reduction2.safe.aiml	YOU SUCK <THAT> * <TOPIC> *	288
+reduction2.safe.aiml	YUP <THAT> * <TOPIC> *	536
+reduction3.safe.aiml	ARE YOU A GIRL <THAT> * <TOPIC> *	184
+reduction3.safe.aiml	ARE YOU A MAN <THAT> * <TOPIC> *	84
+reduction3.safe.aiml	FOR WHAT <THAT> * <TOPIC> *	87
+reduction3.safe.aiml	HOW COME <THAT> * <TOPIC> *	93
+reduction3.safe.aiml	HOW SO <THAT> * <TOPIC> *	212
+reduction3.safe.aiml	JOKES <THAT> * <TOPIC> *	81
+reduction3.safe.aiml	MORE <THAT> * <TOPIC> *	124
+reduction3.safe.aiml	SUP <THAT> * <TOPIC> *	286
+reduction3.safe.aiml	UH HUH <THAT> * <TOPIC> *	140
+reduction3.safe.aiml	WAT <THAT> * <TOPIC> *	152
+reduction3.safe.aiml	WHAT ARE YOU DOING * <THAT> * <TOPIC> *	93
+reduction3.safe.aiml	WHAT ARE YOU TALKING ABOUT <THAT> * <TOPIC> *	307
+reduction3.safe.aiml	WHAT IS MY NAME <THAT> * <TOPIC> *	128
+reduction3.safe.aiml	WHAT IS THE CURRENT * <THAT> * <TOPIC> *	208
+reduction3.safe.aiml	WHAT IS THE TOPIC <THAT> * <TOPIC> *	515
+reduction3.safe.aiml	WHAT UP <THAT> * <TOPIC> *	680
+reduction3.safe.aiml	WHAT YOUR NAME <THAT> * <TOPIC> *	1467
+reduction3.safe.aiml	WHY NOT <THAT> * <TOPIC> *	1722
+reduction4.safe.aiml	ALRIGHT <THAT> * <TOPIC> *	104
+reduction4.safe.aiml	ARE YOU STUPID <THAT> * <TOPIC> *	108
+reduction4.safe.aiml	ASL <THAT> * <TOPIC> *	240
+reduction4.safe.aiml	ASS <THAT> * <TOPIC> *	108
+reduction4.safe.aiml	CHINA <THAT> * <TOPIC> *	204
+reduction4.safe.aiml	CORRECT <THAT> * <TOPIC> *	78
+reduction4.safe.aiml	FAIL <THAT> * <TOPIC> *	84
+reduction4.safe.aiml	FINE <THAT> * <TOPIC> *	830
+reduction4.safe.aiml	GENGER <THAT> * <TOPIC> *	2342
+reduction4.safe.aiml	HOW * GOING <THAT> * <TOPIC> *	160
+reduction4.safe.aiml	HOW BIG ARE YOU <THAT> * <TOPIC> *	124
+reduction4.safe.aiml	HOW TALL ARE YOU <THAT> * <TOPIC> *	423
+reduction4.safe.aiml	I DO <THAT> * <TOPIC> *	812
+reduction4.safe.aiml	I HAVE <THAT> * <TOPIC> *	232
+reduction4.safe.aiml	I UNDERSTAND <THAT> * <TOPIC> *	652
+reduction4.safe.aiml	IDIOT <THAT> * <TOPIC> *	84
+reduction4.safe.aiml	IDK <THAT> * <TOPIC> *	168
+reduction4.safe.aiml	LIES <THAT> * <TOPIC> *	124
+reduction4.safe.aiml	NICE <THAT> * <TOPIC> *	576
+reduction4.safe.aiml	NOT BAD <THAT> * <TOPIC> *	196
+reduction4.safe.aiml	OF COURSE <THAT> * <TOPIC> *	681
+reduction4.safe.aiml	OKAY <THAT> * <TOPIC> *	1004
+reduction4.safe.aiml	PLEASE <THAT> * <TOPIC> *	204
+reduction4.safe.aiml	RIGHT <THAT> * <TOPIC> *	320
+reduction4.safe.aiml	SEX <THAT> * <TOPIC> *	2342
+reduction4.safe.aiml	SO YOU * <THAT> * <TOPIC> *	90
+reduction4.safe.aiml	SOMETIMES <THAT> * <TOPIC> *	320
+reduction4.safe.aiml	SURE <THAT> * <TOPIC> *	1232
+reduction4.safe.aiml	TELL ME ABOUT YOURSELF <THAT> * <TOPIC> *	90
+reduction4.safe.aiml	THANK YOU <THAT> * <TOPIC> *	520
+reduction4.safe.aiml	TRUE <THAT> * <TOPIC> *	543
+reduction4.safe.aiml	WHAT * <THAT> * <TOPIC> *	140
+reduction4.safe.aiml	WHAT IS * <THAT> * <TOPIC> *	243
+reduction4.safe.aiml	WHAT IS A * <THAT> * <TOPIC> *	104
+reduction4.safe.aiml	WHAT TIME IS IT <THAT> * <TOPIC> *	392
+reduction4.safe.aiml	WHERE ARE YOU <THAT> * <TOPIC> *	620
+reduction4.safe.aiml	YA <THAT> * <TOPIC> *	184
+reduction4.safe.aiml	YE <THAT> * <TOPIC> *	184
+reduction4.safe.aiml	YEA <THAT> * <TOPIC> *	388
+reduction4.safe.aiml	YEAP <THAT> * <TOPIC> *	81
+reduction4.safe.aiml	YES I * <THAT> * <TOPIC> *	136
+reduction4.safe.aiml	YES I AM <THAT> * <TOPIC> *	184
+reduction4.safe.aiml	YES I DO <THAT> * <TOPIC> *	280
+reduction4.safe.aiml	YES IT IS <THAT> * <TOPIC> *	272
+reduction4.safe.aiml	YOU ARE A COMPUTER <THAT> * <TOPIC> *	78
+reduction4.safe.aiml	YOU ARE AN IDIOT <THAT> * <TOPIC> *	84
+reduction4.safe.aiml	YOU ARE BORING * <THAT> * <TOPIC> *	90
+reduction4.safe.aiml	YOUNG <THAT> * <TOPIC> *	240
+reduction4.safe.aiml	YOUR MOM <THAT> * <TOPIC> *	4928
+reduction4.safe.aiml	YOUR MOTHER <THAT> * <TOPIC> *	4807
+religion.aiml	GOD <THAT> * <TOPIC> *	93
+salutations.aiml	BYE <THAT> * <TOPIC> *	4471
+salutations.aiml	BYE BYE <THAT> * <TOPIC> *	140
+salutations.aiml	EXIT <THAT> * <TOPIC> *	132
+salutations.aiml	HEY THERE <THAT> * <TOPIC> *	112
+sex.aiml	HAVE YOU EVER HAD SEX <THAT> * <TOPIC> *	78
+sex.aiml	I WANT TO FUCK YOU <THAT> * <TOPIC> *	100
+sex.aiml	SUCK MY DICK <THAT> * <TOPIC> *	148
+sex.aiml	VAGINA <THAT> * <TOPIC> *	144
+sex.aiml	YOUR VAGINA <THAT> * <TOPIC> *	176
+sophia.personality.aiml	ARE YOU A HUMAN <THAT> * <TOPIC> *	128
+sophia.personality.aiml	ARE YOU A VIRGIN <THAT> * <TOPIC> *	124
+sophia.personality.aiml	ARE YOU DUMB <THAT> * <TOPIC> *	108
+sophia.personality.aiml	ARE YOU GAY <THAT> * <TOPIC> *	296
+sophia.personality.aiml	ARE YOU HOT <THAT> * <TOPIC> *	84
+sophia.personality.aiml	ARE YOU MALE OR FEMALE <THAT> * <TOPIC> *	96
+sophia.personality.aiml	ARE YOU MARRIED <THAT> * <TOPIC> *	152
+sophia.personality.aiml	ARE YOU MOCKING ME <THAT> * <TOPIC> *	96
+sophia.personality.aiml	ARE YOU SINGLE <THAT> * <TOPIC> *	93
+sophia.personality.aiml	ARE YOU SURE <THAT> * <TOPIC> *	288
+sophia.personality.aiml	ARE YOU THERE <THAT> * <TOPIC> *	152
+sophia.personality.aiml	DO YOU LIKE IT <THAT> * <TOPIC> *	81
+sophia.personality.aiml	DO YOU LIKE ME <THAT> * <TOPIC> *	212
+sophia.personality.aiml	DO YOU LOVE ME <THAT> * <TOPIC> *	160
+sophia.personality.aiml	WHAT ARE YOU WEARING <THAT> * <TOPIC> *	216
+sophia.personality.aiml	WHERE WERE YOU BORN <THAT> * <TOPIC> *	132
+sophia.personality.aiml	YOU ARE BORING <THAT> * <TOPIC> *	177
+sophia.state.aiml	* <THAT> * <TOPIC> *	5650
+sophia.z.longsheet.aiml	ARE YOU A COMPUTER <THAT> * <TOPIC> *	132
+sophia.z.longsheet.aiml	ARE YOU A MACHINE <THAT> * <TOPIC> *	132
+sophia.z.longsheet.aiml	ARE YOU A ROBOT <THAT> * <TOPIC> *	1320
+sophia.z.longsheet.aiml	ARE YOU A WOMAN <THAT> * <TOPIC> *	445
+sophia.z.longsheet.aiml	ARE YOU AWAKE <THAT> * <TOPIC> *	661
+sophia.z.longsheet.aiml	ARE YOU FEMALE <THAT> * <TOPIC> *	84
+sophia.z.longsheet.aiml	ARE YOU REAL <THAT> * <TOPIC> *	160
+sophia.z.longsheet.aiml	DO YOU BELIEVE IN GOD <THAT> * <TOPIC> *	104
+sophia.z.longsheet.aiml	DO YOU HAVE A BOYFRIEND <THAT> * <TOPIC> *	188
+sophia.z.longsheet.aiml	DO YOU LIKE MUSIC <THAT> * <TOPIC> *	78
+sophia.z.longsheet.aiml	GOOD EVENING <THAT> * <TOPIC> *	75
+sophia.z.longsheet.aiml	GOOD MORNING <THAT> * <TOPIC> *	96
+sophia.z.longsheet.aiml	GOOD NIGHT <THAT> * <TOPIC> *	96
+sophia.z.longsheet.aiml	HELLO <THAT> * <TOPIC> *	18009
+sophia.z.longsheet.aiml	HI <THAT> * <TOPIC> *	9493
+sophia.z.longsheet.aiml	HI THERE <THAT> * <TOPIC> *	388
+sophia.z.longsheet.aiml	HOW ARE YOU <THAT> * <TOPIC> *	5438
+sophia.z.longsheet.aiml	HOW ARE YOU DOING <THAT> * <TOPIC> *	5790
+sophia.z.longsheet.aiml	HOW OLD ARE YOU <THAT> * <TOPIC> *	3025
+sophia.z.longsheet.aiml	TELL ME A JOKE <THAT> * <TOPIC> *	2071
+sophia.z.longsheet.aiml	WHAT ARE YOU <THAT> * <TOPIC> *	236
+sophia.z.longsheet.aiml	WHAT ARE YOU DOING <THAT> * <TOPIC> *	661
+sophia.z.longsheet.aiml	WHAT ARE YOU INTERESTED IN <THAT> * <TOPIC> *	78
+sophia.z.longsheet.aiml	WHAT ARE YOU UP TO <THAT> * <TOPIC> *	124
+sophia.z.longsheet.aiml	WHAT DO YOU DO <THAT> * <TOPIC> *	132
+sophia.z.longsheet.aiml	WHAT DO YOU LIKE <THAT> * <TOPIC> *	78
+sophia.z.longsheet.aiml	WHAT IS THE MEANING OF LIFE <THAT> * <TOPIC> *	90
+sophia.z.longsheet.aiml	WHAT IS UP <THAT> * <TOPIC> *	1330
+sophia.z.longsheet.aiml	WHAT IS YOUR AGE <THAT> * <TOPIC> *	84
+sophia.z.longsheet.aiml	WHAT IS YOUR FAVORITE COLOR <THAT> * <TOPIC> *	108
+sophia.z.longsheet.aiml	WHAT IS YOUR GENDER <THAT> * <TOPIC> *	268
+sophia.z.longsheet.aiml	WHAT IS YOUR JOB <THAT> * <TOPIC> *	132
+sophia.z.longsheet.aiml	WHAT IS YOUR NAME <THAT> * <TOPIC> *	5382
+sophia.z.longsheet.aiml	WHERE ARE YOU FROM <THAT> * <TOPIC> *	776
+sophia.z.longsheet.aiml	WHERE ARE YOU LOCATED <THAT> * <TOPIC> *	676
+sophia.z.longsheet.aiml	WHERE DO YOU LIVE <THAT> * <TOPIC> *	676
+sophia.z.longsheet.aiml	WHO ARE YOU <THAT> * <TOPIC> *	1616
+sophia.z.longsheet.aiml	WHO BUILT YOU <THAT> * <TOPIC> *	81
+sophia.z.longsheet.aiml	WHO CREATED YOU <THAT> * <TOPIC> *	81
+sophia.z.longsheet.aiml	WHY WERE YOU BUILT <THAT> * <TOPIC> *	132
+sophia.z.topical.5_2016.aiml	WHAT IS NEW <THAT> * <TOPIC> *	1330
+stack.aiml	PUSH * <THAT> * <TOPIC> *	1964
+that.aiml	* <THAT> WHAT IS * <TOPIC> *	30
+that.aiml	A LITTLE <THAT> * <TOPIC> *	87
+that.aiml	ALL <THAT> * <TOPIC> *	81
+that.aiml	I AM <THAT> * <TOPIC> *	528
+that.aiml	I DID <THAT> * <TOPIC> *	112
+that.aiml	IT IS <THAT> * <TOPIC> *	176
+that.aiml	ME <THAT> * <TOPIC> *	950
+that.aiml	THAT * <THAT> * <TOPIC> *	87
+that.aiml	THAT <THAT> * <TOPIC> *	81
+that.aiml	THAT MAKES NO SENSE <THAT> * <TOPIC> *	96
+that.aiml	THIS <THAT> * <TOPIC> *	168
+that.aiml	WHAT DOES THAT MEAN <THAT> * <TOPIC> *	156
+that.aiml	WHY IS THAT <THAT> * <TOPIC> *	156
+that.aiml	YES <THAT> NEXT QUESTION <TOPIC> *	34
+that.aiml	YOU <THAT> * <TOPIC> *	3542
+update_mccormick.aiml	DIE <THAT> * <TOPIC> *	172
+update_mccormick.aiml	PROFANITY <THAT> * <TOPIC> *	528
+update_mccormick.aiml	WHAT IS THAT <THAT> * <TOPIC> *	160
+update1.aiml	I AM FROM * <THAT> * <TOPIC> *	248
+update1.aiml	LAME <THAT> * <TOPIC> *	104
+update1.aiml	NOT MUCH <THAT> * <TOPIC> *	87
+update1.aiml	OMG <THAT> * <TOPIC> *	132
+update1.aiml	TIME <THAT> * <TOPIC> *	392
+update1.aiml	TOPIC <THAT> * <TOPIC> *	515
+update1.aiml	UNDERSTOOD <THAT> * <TOPIC> *	652
+xfind.aiml	XFIND * <THAT> * <TOPIC> *	487
