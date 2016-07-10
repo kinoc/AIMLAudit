@@ -31,16 +31,19 @@ The process can take one to multiple hours to process usercount.txt, hence the c
 Files with *_p.txt instead of reporting counts  report Math.Log((double)frequency_count / (double)totals)
 
 The system tries to sample to do a form of balanced testing. It uses the following formula to determine how many times it tests a given input.
-                    double log_n = Math.Log10(n);
-                    int reps = 2 + (int)log_n;
+```
+	double log_n = Math.Log10(n);
+	int reps = 2 + (int)log_n;
+```
 It then apportions N/reps "user input counts" to each trial.
 Most of this was to get fair run time, and meaningful counts for debugging.
 
 All tests are treated as single trials. That is the bot is reset as if the input tested was it's first input. Thus <THAT> plays little to no role in processing.
 
 In the file field, some entries do not point to files but to processing states.
-AANULL = no valid response found.
-MAXRECRUSION = possible infinite loop
+
+* AANULL = no valid response found.
+* MAXRECRUSION = possible infinite loop
 
 ##Input files
 *usercount.txt:
@@ -61,22 +64,26 @@ _user-input_ \t _system-response_ \t _count_
 * patternMatchCount.txt and patternMatchCount_p.txt:
 
  _source file_ \t _pattern_ \t _count_
-Activation counts sorted by file.
+
+   Activation counts sorted by file.
 
 * patternMatchCountByVal.txt and patternMatchCountByVal_p.txt:
 
 _source file_ \t _pattern_ \t _count_
-Activation counts sorted by frequency. This includes BOTH final responses and SRAI's used to get to them.
+
+  Activation counts sorted by frequency. This includes BOTH final responses and SRAI's used to get to them.
 
 * patternMatchRespondsCountByVal.txt and patternMatchRespondsCountByVal_p.txt:
 
 _source file_ \t _pattern_ \t _count_
-Activation counts sorted by file. This includes ONLY counts for the category that produced a response.
+
+  Activation counts sorted by file. This includes ONLY counts for the category that produced a response.
 
 * normalizedMatchCount.txt:
 
   _user-input_ \t _final-file-used_ \t _final-path-used_ \t _system-response_ \t _count_
-Category tracing + responses. The normalized version lower cases and strips punctuation from the user input and merges the responses and traces into a common list. Merges responses that appear to be different textually but are the same to the matching process.
+
+  Category tracing + responses. The normalized version lower cases and strips punctuation from the user input and merges the responses and traces into a common list. Merges responses that appear to be different textually but are the same to the matching process.
 
 So you probably want to look at curResponsesThr.rar and patternMatchRespondsCount.txt to get a good idea about what she says and why.
 You optinally may want to sort NormalizedMatchCount.txt. That way you could see problematic responses and know what path in which file produced it and use the count to see how important it was to fix (versus just collect statistics).
